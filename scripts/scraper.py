@@ -83,7 +83,6 @@ def clean_team_name(name: str) -> str:
 def parse_knockout_matches(doc: PyQuery, year: int) -> list[dict]:
     """
     Parses knockout matches using PyQuery.
-    (Esta función ya funcionaba y se mantiene).
     """
     matches = []
     knockout_tables = doc("table.collapsible.vevent.plainlist").items()
