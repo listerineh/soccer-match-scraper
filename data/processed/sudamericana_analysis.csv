@@ -1,0 +1,972 @@
+﻿year,phase,date,home_team,home_city,home_altitude_meters,away_team,away_city,away_altitude_meters,altitude_difference,home_goals,away_goals,score_raw,stadium
+2024,Fase de Grupos,Chile 2,Universidad Católica,Santiago,553,Coquimbo Unido,Coquimbo,15,538,0,2,0:2,5 de marzo
+2024,Fase de Grupos,Colombia 1,Deportes Tolima,Ibagué,1285,Independiente Medellín,Medellín,1495,-210,0,0,0:0 (2:4 p.),5 de marzo
+2024,Fase de Grupos,Ecuador 1,Deportivo Cuenca,Cuenca,2560,Delfín,Manta,12,2548,2,5,2:5,6 de marzo
+2024,Fase de Grupos,Paraguay 1,Guaraní,Asunción,77,Sportivo Luqueño,Asunción,77,0,0,1,0:1,6 de marzo
+2024,Fase de Grupos,Paraguay 2,Sportivo Ameliano,Asunción,77,Olimpia,Asunción,77,0,2,0,2:0,7 de marzo
+2024,Fase de Grupos,Perú 2,Universidad César Vallejo,Trujillo,34,Sport Huancayo,Huancayo,3250,-3216,2,0,2:0,7 de marzo
+2024,Fase de Grupos,Uruguay 1,Montevideo Wanderers,Montevideo,43,Danubio,Montevideo,43,0,0,1,0:1,6 de marzo
+2024,Fase de Grupos,2 de abril,Universidad César Vallejo,Trujillo,34,Defensa y Justicia,Buenos Aires,25,9,0,1,0:1,Trujillo
+2024,Fase de Grupos,4 de abril,Always Ready,El Alto,4150,Independiente Medellín,Medellín,1495,2655,2,0,2:0,El Alto
+2024,Fase de Grupos,10 de abril,Defensa y Justicia,Buenos Aires,25,Always Ready,El Alto,4150,-4125,1,1,1:1,Gobernador Costa
+2024,Fase de Grupos,10 de abril,Independiente Medellín,Medellín,1495,Universidad César Vallejo,Trujillo,34,1461,4,2,4:2,Medellín
+2024,Fase de Grupos,25 de abril,Always Ready,El Alto,4150,Universidad César Vallejo,Trujillo,34,4116,2,0,2:0,El Alto
+2024,Fase de Grupos,25 de abril,Independiente Medellín,Medellín,1495,Defensa y Justicia,Buenos Aires,25,1470,2,1,2:1,Medellín
+2024,Fase de Grupos,7 de mayo,Universidad César Vallejo,Trujillo,34,Independiente Medellín,Medellín,1495,-1461,1,5,1:5,Trujillo
+2024,Fase de Grupos,7 de mayo,Always Ready,El Alto,4150,Defensa y Justicia,Buenos Aires,25,4125,3,0,3:0,El Alto
+2024,Fase de Grupos,14 de mayo,Defensa y Justicia,Buenos Aires,25,Independiente Medellín,Medellín,1495,-1470,1,1,1:1,Gobernador Costa
+2024,Fase de Grupos,15 de mayo,Universidad César Vallejo,Trujillo,34,Always Ready,El Alto,4150,-4116,2,2,2:2,Trujillo
+2024,Fase de Grupos,29 de mayo,Defensa y Justicia,Buenos Aires,25,Universidad César Vallejo,Trujillo,34,-9,0,1,0:1,Gobernador Costa
+2024,Fase de Grupos,29 de mayo,Independiente Medellín,Medellín,1495,Always Ready,El Alto,4150,-2655,4,0,4:0,Medellín
+2024,Fase de Grupos,2 de abril,Universidad César Vallejo,Trujillo,34,Defensa y Justicia,Buenos Aires,25,9,0,1,0:1,Trujillo
+2024,Fase de Grupos,4 de abril,Always Ready,El Alto,4150,Independiente Medellín,Medellín,1495,2655,2,0,2:0,El Alto
+2024,Fase de Grupos,10 de abril,Defensa y Justicia,Buenos Aires,25,Always Ready,El Alto,4150,-4125,1,1,1:1,Gobernador Costa
+2024,Fase de Grupos,10 de abril,Independiente Medellín,Medellín,1495,Universidad César Vallejo,Trujillo,34,1461,4,2,4:2,Medellín
+2024,Fase de Grupos,25 de abril,Always Ready,El Alto,4150,Universidad César Vallejo,Trujillo,34,4116,2,0,2:0,El Alto
+2024,Fase de Grupos,25 de abril,Independiente Medellín,Medellín,1495,Defensa y Justicia,Buenos Aires,25,1470,2,1,2:1,Medellín
+2024,Fase de Grupos,7 de mayo,Universidad César Vallejo,Trujillo,34,Independiente Medellín,Medellín,1495,-1461,1,5,1:5,Trujillo
+2024,Fase de Grupos,7 de mayo,Always Ready,El Alto,4150,Defensa y Justicia,Buenos Aires,25,4125,3,0,3:0,El Alto
+2024,Fase de Grupos,14 de mayo,Defensa y Justicia,Buenos Aires,25,Independiente Medellín,Medellín,1495,-1470,1,1,1:1,Gobernador Costa
+2024,Fase de Grupos,15 de mayo,Universidad César Vallejo,Trujillo,34,Always Ready,El Alto,4150,-4116,2,2,2:2,Trujillo
+2024,Fase de Grupos,29 de mayo,Defensa y Justicia,Buenos Aires,25,Universidad César Vallejo,Trujillo,34,-9,0,1,0:1,Gobernador Costa
+2024,Fase de Grupos,29 de mayo,Independiente Medellín,Medellín,1495,Always Ready,El Alto,4150,-2655,4,0,4:0,Medellín
+2024,Fase de Grupos,4 de abril,Universidad Católica,Santiago,553,Cruzeiro,Belo Horizonte,852,-299,0,0,0:0,Quito
+2024,Fase de Grupos,10 de abril,Unión La Calera,La Calera,147,Universidad Católica,Santiago,553,-406,0,1,0:1,Valparaíso
+2024,Fase de Grupos,23 de abril,Unión La Calera,La Calera,147,Cruzeiro,Belo Horizonte,852,-705,0,0,0:0,Concepción
+2024,Fase de Grupos,9 de mayo,Universidad Católica,Santiago,553,Unión La Calera,La Calera,147,406,4,0,4:0,Quito
+2024,Fase de Grupos,16 de mayo,Cruzeiro,Belo Horizonte,852,Unión La Calera,La Calera,147,705,1,0,1:0,Belo Horizonte
+2024,Fase de Grupos,30 de mayo,Cruzeiro,Belo Horizonte,852,Universidad Católica,Santiago,553,299,1,0,1:0,Belo Horizonte
+2024,Fase de Grupos,4 de abril,Universidad Católica,Santiago,553,Cruzeiro,Belo Horizonte,852,-299,0,0,0:0,Quito
+2024,Fase de Grupos,10 de abril,Unión La Calera,La Calera,147,Universidad Católica,Santiago,553,-406,0,1,0:1,Valparaíso
+2024,Fase de Grupos,23 de abril,Unión La Calera,La Calera,147,Cruzeiro,Belo Horizonte,852,-705,0,0,0:0,Concepción
+2024,Fase de Grupos,9 de mayo,Universidad Católica,Santiago,553,Unión La Calera,La Calera,147,406,4,0,4:0,Quito
+2024,Fase de Grupos,16 de mayo,Cruzeiro,Belo Horizonte,852,Unión La Calera,La Calera,147,705,1,0,1:0,Belo Horizonte
+2024,Fase de Grupos,30 de mayo,Cruzeiro,Belo Horizonte,852,Universidad Católica,Santiago,553,299,1,0,1:0,Belo Horizonte
+2024,Fase de Grupos,2 de abril,Belgrano,Córdoba,390,Internacional,Porto Alegre,10,380,0,0,0:0,Córdoba
+2024,Fase de Grupos,11 de abril,Delfín,Manta,12,Belgrano,Córdoba,390,-378,1,1,1:1,Manta
+2024,Fase de Grupos,25 de abril,Delfín,Manta,12,Internacional,Porto Alegre,10,2,1,2,1:2,Manta
+2024,Fase de Grupos,9 de mayo,Belgrano,Córdoba,390,Delfín,Manta,12,378,1,1,1:1,Córdoba
+2024,Fase de Grupos,28 de mayo,Internacional,Porto Alegre,10,Belgrano,Córdoba,390,-380,1,2,1:2,Barueri
+2024,Fase de Grupos,8 de junio[nota. 2],Internacional,Porto Alegre,10,Delfín,Manta,12,-2,1,0,1:0,Caxias do Sul
+2024,Fase de Grupos,2 de abril,Belgrano,Córdoba,390,Internacional,Porto Alegre,10,380,0,0,0:0,Córdoba
+2024,Fase de Grupos,11 de abril,Delfín,Manta,12,Belgrano,Córdoba,390,-378,1,1,1:1,Manta
+2024,Fase de Grupos,25 de abril,Delfín,Manta,12,Internacional,Porto Alegre,10,2,1,2,1:2,Manta
+2024,Fase de Grupos,9 de mayo,Belgrano,Córdoba,390,Delfín,Manta,12,378,1,1,1:1,Córdoba
+2024,Fase de Grupos,28 de mayo,Internacional,Porto Alegre,10,Belgrano,Córdoba,390,-380,1,2,1:2,Barueri
+2024,Fase de Grupos,8 de junio[nota. 2],Internacional,Porto Alegre,10,Delfín,Manta,12,-2,1,0,1:0,Caxias do Sul
+2024,Fase de Grupos,25 de abril,Fortaleza,Fortaleza,21,Boca Juniors,Buenos Aires,25,-4,4,2,4:2,Fortaleza
+2024,Fase de Grupos,15 de mayo,Boca Juniors,Buenos Aires,25,Fortaleza,Fortaleza,21,4,1,1,1:1,Buenos Aires
+2024,Fase de Grupos,25 de abril,Fortaleza,Fortaleza,21,Boca Juniors,Buenos Aires,25,-4,4,2,4:2,Fortaleza
+2024,Fase de Grupos,15 de mayo,Boca Juniors,Buenos Aires,25,Fortaleza,Fortaleza,21,4,1,1,1:1,Buenos Aires
+2024,Fase de Grupos,2 de abril,Sportivo Ameliano,Asunción,77,Atlético Paranaense,Curitiba,934,-857,1,4,1:4,Asunción
+2024,Fase de Grupos,9 de abril,Danubio,Montevideo,43,Sportivo Ameliano,Asunción,77,-34,0,0,0:0,Montevideo
+2024,Fase de Grupos,24 de abril,Danubio,Montevideo,43,Atlético Paranaense,Curitiba,934,-891,0,1,0:1,Montevideo
+2024,Fase de Grupos,7 de mayo,Sportivo Ameliano,Asunción,77,Danubio,Montevideo,43,34,2,1,2:1,Asunción
+2024,Fase de Grupos,15 de mayo,Atlético Paranaense,Curitiba,934,Danubio,Montevideo,43,891,1,2,1:2,Curitiba
+2024,Fase de Grupos,30 de mayo,Atlético Paranaense,Curitiba,934,Sportivo Ameliano,Asunción,77,857,0,1,0:1,Curitiba
+2024,Fase de Grupos,2 de abril,Sportivo Ameliano,Asunción,77,Atlético Paranaense,Curitiba,934,-857,1,4,1:4,Asunción
+2024,Fase de Grupos,9 de abril,Danubio,Montevideo,43,Sportivo Ameliano,Asunción,77,-34,0,0,0:0,Montevideo
+2024,Fase de Grupos,24 de abril,Danubio,Montevideo,43,Atlético Paranaense,Curitiba,934,-891,0,1,0:1,Montevideo
+2024,Fase de Grupos,7 de mayo,Sportivo Ameliano,Asunción,77,Danubio,Montevideo,43,34,2,1,2:1,Asunción
+2024,Fase de Grupos,15 de mayo,Atlético Paranaense,Curitiba,934,Danubio,Montevideo,43,891,1,2,1:2,Curitiba
+2024,Fase de Grupos,30 de mayo,Atlético Paranaense,Curitiba,934,Sportivo Ameliano,Asunción,77,857,0,1,0:1,Curitiba
+2024,Fase de Grupos,2 de abril,Nacional,Montevideo,43,Argentinos Juniors,Buenos Aires,25,18,2,3,2:3,Asunción
+2024,Fase de Grupos,2 de abril,Racing,Montevideo,43,Corinthians,São Paulo,760,-717,1,1,1:1,Montevideo
+2024,Fase de Grupos,9 de abril,Argentinos Juniors,Buenos Aires,25,Racing,Montevideo,43,-18,0,3,0:3,Buenos Aires
+2024,Fase de Grupos,9 de abril,Corinthians,São Paulo,760,Nacional,Montevideo,43,717,4,0,4:0,São Paulo
+2024,Fase de Grupos,23 de abril,Argentinos Juniors,Buenos Aires,25,Corinthians,São Paulo,760,-735,1,0,1:0,Buenos Aires
+2024,Fase de Grupos,25 de abril,Nacional,Montevideo,43,Racing,Montevideo,43,0,2,2,2:2,Asunción
+2024,Fase de Grupos,7 de mayo,Racing,Montevideo,43,Argentinos Juniors,Buenos Aires,25,18,2,1,2:1,Montevideo
+2024,Fase de Grupos,7 de mayo,Nacional,Montevideo,43,Corinthians,São Paulo,760,-717,0,2,0:2,Asunción
+2024,Fase de Grupos,14 de mayo,Racing,Montevideo,43,Nacional,Montevideo,43,0,2,1,2:1,Montevideo
+2024,Fase de Grupos,14 de mayo,Corinthians,São Paulo,760,Argentinos Juniors,Buenos Aires,25,735,4,0,4:0,São Paulo
+2024,Fase de Grupos,28 de mayo,Corinthians,São Paulo,760,Racing,Montevideo,43,717,3,0,3:0,São Paulo
+2024,Fase de Grupos,28 de mayo,Argentinos Juniors,Buenos Aires,25,Nacional,Montevideo,43,-18,2,1,2:1,Buenos Aires
+2024,Fase de Grupos,2 de abril,Nacional,Montevideo,43,Argentinos Juniors,Buenos Aires,25,18,2,3,2:3,Asunción
+2024,Fase de Grupos,2 de abril,Racing,Montevideo,43,Corinthians,São Paulo,760,-717,1,1,1:1,Montevideo
+2024,Fase de Grupos,9 de abril,Argentinos Juniors,Buenos Aires,25,Racing,Montevideo,43,-18,0,3,0:3,Buenos Aires
+2024,Fase de Grupos,9 de abril,Corinthians,São Paulo,760,Nacional,Montevideo,43,717,4,0,4:0,São Paulo
+2024,Fase de Grupos,23 de abril,Argentinos Juniors,Buenos Aires,25,Corinthians,São Paulo,760,-735,1,0,1:0,Buenos Aires
+2024,Fase de Grupos,25 de abril,Nacional,Montevideo,43,Racing,Montevideo,43,0,2,2,2:2,Asunción
+2024,Fase de Grupos,7 de mayo,Racing,Montevideo,43,Argentinos Juniors,Buenos Aires,25,18,2,1,2:1,Montevideo
+2024,Fase de Grupos,7 de mayo,Nacional,Montevideo,43,Corinthians,São Paulo,760,-717,0,2,0:2,Asunción
+2024,Fase de Grupos,14 de mayo,Racing,Montevideo,43,Nacional,Montevideo,43,0,2,1,2:1,Montevideo
+2024,Fase de Grupos,14 de mayo,Corinthians,São Paulo,760,Argentinos Juniors,Buenos Aires,25,735,4,0,4:0,São Paulo
+2024,Fase de Grupos,28 de mayo,Corinthians,São Paulo,760,Racing,Montevideo,43,717,3,0,3:0,São Paulo
+2024,Fase de Grupos,28 de mayo,Argentinos Juniors,Buenos Aires,25,Nacional,Montevideo,43,-18,2,1,2:1,Buenos Aires
+2024,Fase de Grupos,3 de abril,Cuiabá,Cuiabá,165,Lanús,Buenos Aires,25,140,1,1,1:1,Cuiabá
+2024,Fase de Grupos,11 de abril,Metropolitanos,Caracas,900,Cuiabá,Cuiabá,165,735,0,2,0:2,Caracas
+2024,Fase de Grupos,25 de abril,Metropolitanos,Caracas,900,Lanús,Buenos Aires,25,875,0,2,0:2,Caracas
+2024,Fase de Grupos,8 de mayo,Cuiabá,Cuiabá,165,Metropolitanos,Caracas,900,-735,3,0,3:0,Cuiabá
+2024,Fase de Grupos,15 de mayo,Lanús,Buenos Aires,25,Metropolitanos,Caracas,900,-875,5,0,5:0,Lanús
+2024,Fase de Grupos,29 de mayo,Lanús,Buenos Aires,25,Cuiabá,Cuiabá,165,-140,0,1,0:1,Lanús
+2024,Fase de Grupos,3 de abril,Cuiabá,Cuiabá,165,Lanús,Buenos Aires,25,140,1,1,1:1,Cuiabá
+2024,Fase de Grupos,11 de abril,Metropolitanos,Caracas,900,Cuiabá,Cuiabá,165,735,0,2,0:2,Caracas
+2024,Fase de Grupos,25 de abril,Metropolitanos,Caracas,900,Lanús,Buenos Aires,25,875,0,2,0:2,Caracas
+2024,Fase de Grupos,8 de mayo,Cuiabá,Cuiabá,165,Metropolitanos,Caracas,900,-735,3,0,3:0,Cuiabá
+2024,Fase de Grupos,15 de mayo,Lanús,Buenos Aires,25,Metropolitanos,Caracas,900,-875,5,0,5:0,Lanús
+2024,Fase de Grupos,29 de mayo,Lanús,Buenos Aires,25,Cuiabá,Cuiabá,165,-140,0,1,0:1,Lanús
+2024,Fase de Grupos,3 de abril,Bragantino,Bragança Paulista,852,Coquimbo Unido,Coquimbo,15,837,1,0,1:0,Bragança Paulista
+2024,Fase de Grupos,4 de abril,Sportivo Luqueño,Asunción,77,Racing Club,Buenos Aires,25,52,0,2,0:2,Asunción
+2024,Fase de Grupos,10 de abril,Racing Club,Buenos Aires,25,Bragantino,Bragança Paulista,852,-827,3,0,3:0,Avellaneda
+2024,Fase de Grupos,11 de abril,Coquimbo Unido,Coquimbo,15,Sportivo Luqueño,Asunción,77,-62,1,0,1:0,Coquimbo
+2024,Fase de Grupos,24 de abril,Coquimbo Unido,Coquimbo,15,Racing Club,Buenos Aires,25,-10,1,2,1:2,Coquimbo
+2024,Fase de Grupos,24 de abril,Bragantino,Bragança Paulista,852,Sportivo Luqueño,Asunción,77,775,2,1,2:1,Bragança Paulista
+2024,Fase de Grupos,8 de mayo,Sportivo Luqueño,Asunción,77,Coquimbo Unido,Coquimbo,15,62,0,0,0:0,Asunción
+2024,Fase de Grupos,9 de mayo,Bragantino,Bragança Paulista,852,Racing Club,Buenos Aires,25,827,2,1,2:1,Bragança Paulista
+2024,Fase de Grupos,16 de mayo,Racing Club,Buenos Aires,25,Coquimbo Unido,Coquimbo,15,10,3,0,3:0,Avellaneda
+2024,Fase de Grupos,16 de mayo,Sportivo Luqueño,Asunción,77,Bragantino,Bragança Paulista,852,-775,2,3,2:3,Asunción
+2024,Fase de Grupos,28 de mayo,Racing Club,Buenos Aires,25,Sportivo Luqueño,Asunción,77,-52,3,0,3:0,Lanús
+2024,Fase de Grupos,28 de mayo,Coquimbo Unido,Coquimbo,15,Bragantino,Bragança Paulista,852,-837,1,1,1:1,Coquimbo
+2024,Fase de Grupos,3 de abril,Bragantino,Bragança Paulista,852,Coquimbo Unido,Coquimbo,15,837,1,0,1:0,Bragança Paulista
+2024,Fase de Grupos,4 de abril,Sportivo Luqueño,Asunción,77,Racing Club,Buenos Aires,25,52,0,2,0:2,Asunción
+2024,Fase de Grupos,10 de abril,Racing Club,Buenos Aires,25,Bragantino,Bragança Paulista,852,-827,3,0,3:0,Avellaneda
+2024,Fase de Grupos,11 de abril,Coquimbo Unido,Coquimbo,15,Sportivo Luqueño,Asunción,77,-62,1,0,1:0,Coquimbo
+2024,Fase de Grupos,24 de abril,Coquimbo Unido,Coquimbo,15,Racing Club,Buenos Aires,25,-10,1,2,1:2,Coquimbo
+2024,Fase de Grupos,24 de abril,Bragantino,Bragança Paulista,852,Sportivo Luqueño,Asunción,77,775,2,1,2:1,Bragança Paulista
+2024,Fase de Grupos,8 de mayo,Sportivo Luqueño,Asunción,77,Coquimbo Unido,Coquimbo,15,62,0,0,0:0,Asunción
+2024,Fase de Grupos,9 de mayo,Bragantino,Bragança Paulista,852,Racing Club,Buenos Aires,25,827,2,1,2:1,Bragança Paulista
+2024,Fase de Grupos,16 de mayo,Racing Club,Buenos Aires,25,Coquimbo Unido,Coquimbo,15,10,3,0,3:0,Avellaneda
+2024,Fase de Grupos,16 de mayo,Sportivo Luqueño,Asunción,77,Bragantino,Bragança Paulista,852,-775,2,3,2:3,Asunción
+2024,Fase de Grupos,28 de mayo,Racing Club,Buenos Aires,25,Sportivo Luqueño,Asunción,77,-52,3,0,3:0,Lanús
+2024,Fase de Grupos,28 de mayo,Coquimbo Unido,Coquimbo,15,Bragantino,Bragança Paulista,852,-837,1,1,1:1,Coquimbo
+2024,Fase Final,"17 de julio, 19:30 (UTC-5)",Barcelona,Guayaquil,9,Bragantino,Bragança Paulista,852,-843,1,1,1:1 (1:1),Estadio Monumental
+2024,Fase Final,"24 de julio, 21:30 (UTC-3)",Bragantino,Bragança Paulista,852,Barcelona,Guayaquil,9,843,3,2,"3:2
+.mw-parser-output .sinnegrita,.mw-parser-output .sinnegrita b{font-weight:normal}
+(1:2)",Estadio Nabi Abi Chedid
+2024,Fase Final,"18 de julio, 20:30 (UTC-4)",Cerro Porteño,Asunción,77,Atlético Paranaense,Curitiba,934,-857,1,1,1:1 (1:0),Estadio General Pablo Rojas
+2024,Fase Final,"25 de julio, 21:30 (UTC-3)",Atlético Paranaense,Curitiba,934,Cerro Porteño,Asunción,77,857,2,1,"2:1
+(1:0)",Ligga Arena
+2024,Fase Final,"18 de julio, 18:00 (UTC-4)",Palestino,Santiago,553,Cuiabá,Cuiabá,165,388,1,1,1:1 (1:0),Estadio Ester Roa Rebolledo
+2024,Fase Final,"25 de julio, 19:00 (UTC-4)",Cuiabá,Cuiabá,165,Palestino,Santiago,553,-388,1,2,"1:2
+(0:1)",Arena Pantanal
+2024,Fase Final,"17 de julio, 18:00 (UTC-4)",Libertad,Asunción,77,Universidad Católica,Santiago,553,-476,2,0,2:0 (0:0),Estadio Defensores del Chaco
+2024,Fase Final,"24 de julio, 17:00 (UTC-5)",Universidad Católica,Santiago,553,Libertad,Asunción,77,476,1,1,"1:1
+(1:0)",Estadio Olímpico Atahualpa
+2024,Fase Final,"17 de julio, 19:30 (UTC-5)",Independiente del Valle,Quito,2850,Boca Juniors,Buenos Aires,25,2825,0,0,0:0,Estadio Banco Guayaquil
+2024,Fase Final,"24 de julio, 21:30 (UTC-3)",Boca Juniors,Buenos Aires,25,Independiente del Valle,Quito,2850,-2825,1,0,"1:0
+(1:0)",Estadio La Bombonera
+2024,Fase Final,"18 de julio, 19:30 (UTC-5)",Liga de Quito,Quito,2850,Always Ready,El Alto,4150,-1300,3,0,3:0 (2:0),Estadio Rodrigo Paz Delgado
+2024,Fase Final,"25 de julio, 20:30 (UTC-4)",Always Ready,El Alto,4150,Liga de Quito,Quito,2850,1300,3,1,"3:1
+(1:0)",Estadio Municipal
+2024,Fase Final,"16 de julio, 21:30 (UTC-3)",Rosario Central,Rosario,31,Internacional,Porto Alegre,10,21,1,0,1:0 (0:0),Estadio Gigante de Arroyito
+2024,Fase Final,"23 de julio, 21:30 (UTC-3)",Internacional,Porto Alegre,10,Rosario Central,Rosario,31,-21,1,1,"1:1
+(0:1)",Estadio Beira-Rio
+2024,Fase Final,"16 de julio, 18:00 (UTC-4)",Huachipato,Talcahuano,1,Racing,Montevideo,43,-42,2,3,2:3 (1:2),Estadio Ester Roa Rebolledo
+2024,Fase Final,"23 de julio, 19:00 (UTC-3)",Racing,Montevideo,43,Huachipato,Talcahuano,1,42,0,1,"0:1
+(0:1)
+(0:3 p.)",Estadio Centenario
+2024,Fase Final,"14 de agosto, 19:00 (UTC-3)",Rosario Central,Rosario,31,Fortaleza,Fortaleza,21,10,1,1,1:1 (1:1),Estadio Gigante de Arroyito
+2024,Fase Final,"21 de agosto, 19:00 (UTC-3)",Fortaleza,Fortaleza,21,Rosario Central,Rosario,31,-10,3,1,3:1 (0:0),Arena Castelão
+2024,Fase Final,"15 de agosto, 18:00 (UTC-4)",Libertad,Asunción,77,Sportivo Ameliano,Asunción,77,0,1,1,1:1 (0:1),Estadio Defensores del Chaco
+2024,Fase Final,"22 de agosto, 18:00 (UTC-4)",Sportivo Ameliano,Asunción,77,Libertad,Asunción,77,0,0,0,"0:0
+(3:4 p.)",Estadio Defensores del Chaco
+2024,Fase Final,"14 de agosto, 19:30 (UTC-5)",Liga de Quito,Quito,2850,Lanús,Buenos Aires,25,2825,1,2,1:2 (1:2),Estadio Rodrigo Paz Delgado
+2024,Fase Final,"21 de agosto, 21:30 (UTC-3)",Lanús,Buenos Aires,25,Liga de Quito,Quito,2850,-2825,3,1,3:1 (1:1),Estadio Néstor Díaz Pérez
+2024,Fase Final,"13 de agosto, 18:00 (UTC-4)",Huachipato,Talcahuano,1,Racing Club,Buenos Aires,25,-24,0,2,0:2 (0:1),Estadio Sausalito
+2024,Fase Final,"20 de agosto, 19:00 (UTC-3)",Racing Club,Buenos Aires,25,Huachipato,Talcahuano,1,24,6,1,6:1 (4:0),Estadio El Cilindro
+2024,Fase Final,"15 de agosto, 19:00 (UTC-3)",Atlético Paranaense,Curitiba,934,Belgrano,Córdoba,390,544,2,1,2:1 (1:1),Ligga Arena
+2024,Fase Final,"22 de agosto, 19:00 (UTC-3)",Belgrano,Córdoba,390,Atlético Paranaense,Curitiba,934,-544,0,2,0:2 (0:0),Estadio Mario Alberto Kempes
+2024,Fase Final,"14 de agosto, 20:30 (UTC-4)",Palestino,Santiago,553,Independiente Medellín,Medellín,1495,-942,2,2,2:2 (0:1),Estadio Nacional
+2024,Fase Final,"21 de agosto, 19:30 (UTC-5)",Independiente Medellín,Medellín,1495,Palestino,Santiago,553,942,4,0,4:0 (2:0),Estadio Hernán Ramírez Villegas
+2024,Fase Final,"15 de agosto, 21:30 (UTC-3)",Boca Juniors,Buenos Aires,25,Cruzeiro,Belo Horizonte,852,-827,1,0,1:0 (0:0),Estadio La Bombonera
+2024,Fase Final,"22 de agosto, 21:30 (UTC-3)",Cruzeiro,Belo Horizonte,852,Boca Juniors,Buenos Aires,25,827,2,1,"2:1
+(2:1)
+(5:4 p.)",Estadio Mineirão
+2024,Fase Final,"13 de agosto, 21:30 (UTC-3)",Bragantino,Bragança Paulista,852,Corinthians,São Paulo,760,92,1,2,1:2 (0:2),Estadio Santa Cruz
+2024,Fase Final,"20 de agosto, 21:30 (UTC-3)",Corinthians,São Paulo,760,Bragantino,Bragança Paulista,852,-92,1,2,"1:2
+(1:0)
+(5:4 p.)",Neo Química Arena
+2024,Fase Final,"17 de septiembre, 21:30 (UTC-3)",Fortaleza,Fortaleza,21,Corinthians,São Paulo,760,-739,0,2,0:2 (0:1),Arena Castelão
+2024,Fase Final,"24 de septiembre, 21:30 (UTC-3)",Corinthians,São Paulo,760,Fortaleza,Fortaleza,21,739,3,0,3:0 (0:0),Neo Química Arena
+2024,Fase Final,"19 de septiembre, 20:30 (UTC-4)",Libertad,Asunción,77,Cruzeiro,Belo Horizonte,852,-775,0,2,0:2 (0:2),Estadio Defensores del Chaco
+2024,Fase Final,"26 de septiembre, 21:30 (UTC-3)",Cruzeiro,Belo Horizonte,852,Libertad,Asunción,77,775,1,1,1:1 (1:0),Estadio Mineirão
+2024,Fase Final,"18 de septiembre, 21:30 (UTC-3)",Lanús,Buenos Aires,25,Independiente Medellín,Medellín,1495,-1470,0,0,0:0,Estadio Néstor Díaz Pérez
+2024,Fase Final,"25 de septiembre, 19:30 (UTC-5)",Independiente Medellín,Medellín,1495,Lanús,Buenos Aires,25,1470,1,1,"1:1
+(0:1)
+(5:6 p.)",Estadio Atanasio Girardot
+2024,Fase Final,"19 de septiembre, 21:30 (UTC-3)",Atlético Paranaense,Curitiba,934,Racing Club,Buenos Aires,25,909,1,0,1:0 (1:0),Ligga Arena
+2024,Fase Final,"26 de septiembre, 21:30 (UTC-3)",Racing Club,Buenos Aires,25,Atlético Paranaense,Curitiba,934,-909,4,1,4:1 (3:0),Estadio El Cilindro
+2024,Fase Final,"24 de octubre, 21:30 (UTC-3)",Corinthians,São Paulo,760,Racing Club,Buenos Aires,25,735,2,2,2:2 (2:1),Neo Química Arena
+2024,Fase Final,"31 de octubre, 21:30 (UTC-3)",Racing Club,Buenos Aires,25,Corinthians,São Paulo,760,-735,2,1,2:1 (2:1),Estadio El Cilindro
+2024,Fase Final,"23 de octubre, 19:00 (UTC-3)",Cruzeiro,Belo Horizonte,852,Lanús,Buenos Aires,25,827,1,1,1:1 (0:0),Estadio Mineirão
+2024,Fase Final,"30 de octubre, 19:00 (UTC-3)",Lanús,Buenos Aires,25,Cruzeiro,Belo Horizonte,852,-827,0,1,0:1 (0:1),Estadio Néstor Díaz Pérez
+2024,Fase Final,"23 de noviembre, 17:00 (UTC-3)",Racing Club,Buenos Aires,25,Cruzeiro,Belo Horizonte,852,-827,3,1,3:1 (2:0),Estadio General Pablo Rojas
+2023,Fase de Grupos,Chile 1,Cobresal,El Salvador,2430,Palestino,Santiago,553,1877,0,1,0:1,9 de marzo
+2023,Fase de Grupos,Chile 2,Audax Italiano,Santiago,553,Universidad Católica,Santiago,553,0,3,2,3:2,7 de marzo
+2023,Fase de Grupos,Colombia 1,Deportes Tolima,Ibagué,1285,Junior,Barranquilla,18,1267,1,0,1:0,9 de marzo
+2023,Fase de Grupos,Ecuador 1,Liga de Quito,Quito,2850,Delfín,Manta,12,2838,4,0,4:0,7 de marzo
+2023,Fase de Grupos,Ecuador 2,Emelec,Guayaquil,9,Deportivo Cuenca,Cuenca,2560,-2551,2,1,2:1,9 de marzo
+2023,Fase de Grupos,Paraguay 1,Guaraní,Asunción,77,Sportivo Ameliano,Asunción,77,0,3,1,3:1,8 de marzo
+2023,Fase de Grupos,Perú 1,Universidad César Vallejo,Trujillo,34,Deportivo Binacional,Juliaca,3824,-3790,3,1,3:1,8 de marzo
+2023,Fase de Grupos,Uruguay 1,Defensor Sporting,Montevideo,43,Danubio,Montevideo,43,0,0,0,0:0 (3:4 p.),8 de marzo
+2023,Fase de Grupos,Uruguay 2,River Plate,Buenos Aires,25,Peñarol,Montevideo,43,-18,0,4,0:4,7 de marzo
+2023,Fase de Grupos,Venezuela 2,Estudiantes de Mérida,Mérida,1630,Deportivo Táchira,San Cristóbal,825,805,1,1,1:1 (3:1 p.),8 de marzo
+2023,Fase de Grupos,4 de abril,Universidad César Vallejo,Trujillo,34,Liga de Quito,Quito,2850,-2816,1,2,1:2,Trujillo
+2023,Fase de Grupos,20 de abril,Botafogo,Río de Janeiro,10,Universidad César Vallejo,Trujillo,34,-24,4,0,4:0,Río de Janeiro
+2023,Fase de Grupos,4 de mayo,Botafogo,Río de Janeiro,10,Liga de Quito,Quito,2850,-2840,0,0,0:0,Río de Janeiro
+2023,Fase de Grupos,25 de mayo,Universidad César Vallejo,Trujillo,34,Botafogo,Río de Janeiro,10,24,2,3,2:3,Trujillo
+2023,Fase de Grupos,6 de junio,Liga de Quito,Quito,2850,Botafogo,Río de Janeiro,10,2840,0,0,0:0,Quito
+2023,Fase de Grupos,29 de junio,Liga de Quito,Quito,2850,Universidad César Vallejo,Trujillo,34,2816,3,0,3:0,Quito
+2023,Fase de Grupos,4 de abril,Universidad César Vallejo,Trujillo,34,Liga de Quito,Quito,2850,-2816,1,2,1:2,Trujillo
+2023,Fase de Grupos,20 de abril,Botafogo,Río de Janeiro,10,Universidad César Vallejo,Trujillo,34,-24,4,0,4:0,Río de Janeiro
+2023,Fase de Grupos,4 de mayo,Botafogo,Río de Janeiro,10,Liga de Quito,Quito,2850,-2840,0,0,0:0,Río de Janeiro
+2023,Fase de Grupos,25 de mayo,Universidad César Vallejo,Trujillo,34,Botafogo,Río de Janeiro,10,24,2,3,2:3,Trujillo
+2023,Fase de Grupos,6 de junio,Liga de Quito,Quito,2850,Botafogo,Río de Janeiro,10,2840,0,0,0:0,Quito
+2023,Fase de Grupos,29 de junio,Liga de Quito,Quito,2850,Universidad César Vallejo,Trujillo,34,2816,3,0,3:0,Quito
+2023,Fase de Grupos,5 de abril,Danubio,Montevideo,43,Emelec,Guayaquil,9,34,2,0,2:0,Montevideo
+2023,Fase de Grupos,6 de abril,Huracán,Buenos Aires,25,Guaraní,Asunción,77,-52,4,1,4:1,Buenos Aires
+2023,Fase de Grupos,19 de abril,Guaraní,Asunción,77,Danubio,Montevideo,43,34,2,1,2:1,Asunción
+2023,Fase de Grupos,20 de abril,Emelec,Guayaquil,9,Huracán,Buenos Aires,25,-16,1,0,1:0,Guayaquil
+2023,Fase de Grupos,2 de mayo,Huracán,Buenos Aires,25,Danubio,Montevideo,43,-18,1,1,1:1,Buenos Aires
+2023,Fase de Grupos,3 de mayo,Guaraní,Asunción,77,Emelec,Guayaquil,9,68,1,1,1:1,Asunción
+2023,Fase de Grupos,25 de mayo,Danubio,Montevideo,43,Guaraní,Asunción,77,-34,0,2,0:2,Montevideo
+2023,Fase de Grupos,25 de mayo,Huracán,Buenos Aires,25,Emelec,Guayaquil,9,16,2,2,2:2,Buenos Aires
+2023,Fase de Grupos,7 de junio,Emelec,Guayaquil,9,Guaraní,Asunción,77,-68,1,1,1:1,Guayaquil
+2023,Fase de Grupos,8 de junio,Danubio,Montevideo,43,Huracán,Buenos Aires,25,18,1,0,1:0,Montevideo
+2023,Fase de Grupos,28 de junio,Guaraní,Asunción,77,Huracán,Buenos Aires,25,52,2,0,2:0,Asunción
+2023,Fase de Grupos,28 de junio,Emelec,Guayaquil,9,Danubio,Montevideo,43,-34,2,1,2:1,Guayaquil
+2023,Fase de Grupos,5 de abril,Danubio,Montevideo,43,Emelec,Guayaquil,9,34,2,0,2:0,Montevideo
+2023,Fase de Grupos,6 de abril,Huracán,Buenos Aires,25,Guaraní,Asunción,77,-52,4,1,4:1,Buenos Aires
+2023,Fase de Grupos,19 de abril,Guaraní,Asunción,77,Danubio,Montevideo,43,34,2,1,2:1,Asunción
+2023,Fase de Grupos,20 de abril,Emelec,Guayaquil,9,Huracán,Buenos Aires,25,-16,1,0,1:0,Guayaquil
+2023,Fase de Grupos,2 de mayo,Huracán,Buenos Aires,25,Danubio,Montevideo,43,-18,1,1,1:1,Buenos Aires
+2023,Fase de Grupos,3 de mayo,Guaraní,Asunción,77,Emelec,Guayaquil,9,68,1,1,1:1,Asunción
+2023,Fase de Grupos,25 de mayo,Danubio,Montevideo,43,Guaraní,Asunción,77,-34,0,2,0:2,Montevideo
+2023,Fase de Grupos,25 de mayo,Huracán,Buenos Aires,25,Emelec,Guayaquil,9,16,2,2,2:2,Buenos Aires
+2023,Fase de Grupos,7 de junio,Emelec,Guayaquil,9,Guaraní,Asunción,77,-68,1,1,1:1,Guayaquil
+2023,Fase de Grupos,8 de junio,Danubio,Montevideo,43,Huracán,Buenos Aires,25,18,1,0,1:0,Montevideo
+2023,Fase de Grupos,28 de junio,Guaraní,Asunción,77,Huracán,Buenos Aires,25,52,2,0,2:0,Asunción
+2023,Fase de Grupos,28 de junio,Emelec,Guayaquil,9,Danubio,Montevideo,43,-34,2,1,2:1,Guayaquil
+2023,Fase de Grupos,2 de mayo,Bragantino,Bragança Paulista,852,Estudiantes (LP),La Plata,9,843,0,0,0:0,Bragança Paulista
+2023,Fase de Grupos,7 de junio,Estudiantes (LP),La Plata,9,Bragantino,Bragança Paulista,852,-843,1,1,1:1,La Plata
+2023,Fase de Grupos,2 de mayo,Bragantino,Bragança Paulista,852,Estudiantes (LP),La Plata,9,843,0,0,0:0,Bragança Paulista
+2023,Fase de Grupos,7 de junio,Estudiantes (LP),La Plata,9,Bragantino,Bragança Paulista,852,-843,1,1,1:1,La Plata
+2023,Fase de Grupos,6 de abril,Tigre,Buenos Aires,25,São Paulo,São Paulo,760,-735,0,2,0:2,Victoria
+2023,Fase de Grupos,20 de abril,Deportes Tolima,Ibagué,1285,Tigre,Buenos Aires,25,1260,1,2,1:2,Ibagué
+2023,Fase de Grupos,2 de mayo,Deportes Tolima,Ibagué,1285,São Paulo,São Paulo,760,525,0,0,0:0,Ibagué
+2023,Fase de Grupos,24 de mayo,Tigre,Buenos Aires,25,Deportes Tolima,Ibagué,1285,-1260,0,0,0:0,Victoria
+2023,Fase de Grupos,8 de junio,São Paulo,São Paulo,760,Deportes Tolima,Ibagué,1285,-525,5,0,5:0,São Paulo
+2023,Fase de Grupos,27 de junio,São Paulo,São Paulo,760,Tigre,Buenos Aires,25,735,2,0,2:0,São Paulo
+2023,Fase de Grupos,6 de abril,Tigre,Buenos Aires,25,São Paulo,São Paulo,760,-735,0,2,0:2,Victoria
+2023,Fase de Grupos,20 de abril,Deportes Tolima,Ibagué,1285,Tigre,Buenos Aires,25,1260,1,2,1:2,Ibagué
+2023,Fase de Grupos,2 de mayo,Deportes Tolima,Ibagué,1285,São Paulo,São Paulo,760,525,0,0,0:0,Ibagué
+2023,Fase de Grupos,24 de mayo,Tigre,Buenos Aires,25,Deportes Tolima,Ibagué,1285,-1260,0,0,0:0,Victoria
+2023,Fase de Grupos,8 de junio,São Paulo,São Paulo,760,Deportes Tolima,Ibagué,1285,-525,5,0,5:0,São Paulo
+2023,Fase de Grupos,27 de junio,São Paulo,São Paulo,760,Tigre,Buenos Aires,25,735,2,0,2:0,São Paulo
+2023,Fase de Grupos,4 de abril,Audax Italiano,Santiago,553,Newell's Old Boys,Rosario,31,522,0,1,0:1,Rancagua
+2023,Fase de Grupos,20 de abril,Santos,Santos,2,Audax Italiano,Santiago,553,-551,0,0,0:0,Santos
+2023,Fase de Grupos,2 de mayo,Newell's Old Boys,Rosario,31,Santos,Santos,2,29,1,0,1:0,Rosario
+2023,Fase de Grupos,24 de mayo,Audax Italiano,Santiago,553,Santos,Santos,2,551,2,1,2:1,Rancagua
+2023,Fase de Grupos,6 de junio,Santos,Santos,2,Newell's Old Boys,Rosario,31,-29,1,2,1:2,Santos
+2023,Fase de Grupos,29 de junio,Newell's Old Boys,Rosario,31,Audax Italiano,Santiago,553,-522,1,1,1:1,Rosario
+2023,Fase de Grupos,4 de abril,Audax Italiano,Santiago,553,Newell's Old Boys,Rosario,31,522,0,1,0:1,Rancagua
+2023,Fase de Grupos,20 de abril,Santos,Santos,2,Audax Italiano,Santiago,553,-551,0,0,0:0,Santos
+2023,Fase de Grupos,2 de mayo,Newell's Old Boys,Rosario,31,Santos,Santos,2,29,1,0,1:0,Rosario
+2023,Fase de Grupos,24 de mayo,Audax Italiano,Santiago,553,Santos,Santos,2,551,2,1,2:1,Rancagua
+2023,Fase de Grupos,6 de junio,Santos,Santos,2,Newell's Old Boys,Rosario,31,-29,1,2,1:2,Santos
+2023,Fase de Grupos,29 de junio,Newell's Old Boys,Rosario,31,Audax Italiano,Santiago,553,-522,1,1,1:1,Rosario
+2023,Fase de Grupos,4 de abril,Millonarios,Bogotá,2640,Defensa y Justicia,Buenos Aires,25,2615,3,0,3:0,Bogotá
+2023,Fase de Grupos,5 de abril,América Mineiro,Belo Horizonte,852,Peñarol,Montevideo,43,809,4,1,4:1,Belo Horizonte
+2023,Fase de Grupos,19 de abril,Defensa y Justicia,Buenos Aires,25,América Mineiro,Belo Horizonte,852,-827,2,1,2:1,Gobernador Costa
+2023,Fase de Grupos,20 de abril,Peñarol,Montevideo,43,Millonarios,Bogotá,2640,-2597,0,2,0:2,Montevideo
+2023,Fase de Grupos,3 de mayo,Millonarios,Bogotá,2640,América Mineiro,Belo Horizonte,852,1788,1,1,1:1,Bogotá
+2023,Fase de Grupos,4 de mayo,Defensa y Justicia,Buenos Aires,25,Peñarol,Montevideo,43,-18,4,1,4:1,Gobernador Costa
+2023,Fase de Grupos,23 de mayo,América Mineiro,Belo Horizonte,852,Defensa y Justicia,Buenos Aires,25,827,2,3,2:3,Belo Horizonte
+2023,Fase de Grupos,23 de mayo,Millonarios,Bogotá,2640,Peñarol,Montevideo,43,2597,3,1,3:1,Bogotá
+2023,Fase de Grupos,6 de junio,Peñarol,Montevideo,43,Defensa y Justicia,Buenos Aires,25,18,0,3,0:3,Montevideo
+2023,Fase de Grupos,6 de junio,América Mineiro,Belo Horizonte,852,Millonarios,Bogotá,2640,-1788,2,0,2:0,Belo Horizonte
+2023,Fase de Grupos,29 de junio,Defensa y Justicia,Buenos Aires,25,Millonarios,Bogotá,2640,-2615,3,1,3:1,Gobernador Costa
+2023,Fase de Grupos,29 de junio,Peñarol,Montevideo,43,América Mineiro,Belo Horizonte,852,-809,1,2,1:2,Montevideo
+2023,Fase de Grupos,4 de abril,Millonarios,Bogotá,2640,Defensa y Justicia,Buenos Aires,25,2615,3,0,3:0,Bogotá
+2023,Fase de Grupos,5 de abril,América Mineiro,Belo Horizonte,852,Peñarol,Montevideo,43,809,4,1,4:1,Belo Horizonte
+2023,Fase de Grupos,19 de abril,Defensa y Justicia,Buenos Aires,25,América Mineiro,Belo Horizonte,852,-827,2,1,2:1,Gobernador Costa
+2023,Fase de Grupos,20 de abril,Peñarol,Montevideo,43,Millonarios,Bogotá,2640,-2597,0,2,0:2,Montevideo
+2023,Fase de Grupos,3 de mayo,Millonarios,Bogotá,2640,América Mineiro,Belo Horizonte,852,1788,1,1,1:1,Bogotá
+2023,Fase de Grupos,4 de mayo,Defensa y Justicia,Buenos Aires,25,Peñarol,Montevideo,43,-18,4,1,4:1,Gobernador Costa
+2023,Fase de Grupos,23 de mayo,América Mineiro,Belo Horizonte,852,Defensa y Justicia,Buenos Aires,25,827,2,3,2:3,Belo Horizonte
+2023,Fase de Grupos,23 de mayo,Millonarios,Bogotá,2640,Peñarol,Montevideo,43,2597,3,1,3:1,Bogotá
+2023,Fase de Grupos,6 de junio,Peñarol,Montevideo,43,Defensa y Justicia,Buenos Aires,25,18,0,3,0:3,Montevideo
+2023,Fase de Grupos,6 de junio,América Mineiro,Belo Horizonte,852,Millonarios,Bogotá,2640,-1788,2,0,2:0,Belo Horizonte
+2023,Fase de Grupos,29 de junio,Defensa y Justicia,Buenos Aires,25,Millonarios,Bogotá,2640,-2615,3,1,3:1,Gobernador Costa
+2023,Fase de Grupos,29 de junio,Peñarol,Montevideo,43,América Mineiro,Belo Horizonte,852,-809,1,2,1:2,Montevideo
+2023,Fase de Grupos,4 de abril,Goiás,Goiânia,749,Santa Fe,Bogotá,2640,-1891,0,0,0:0,Goiânia
+2023,Fase de Grupos,20 de abril,Universitario,Lima,101,Goiás,Goiânia,749,-648,2,2,2:2,Lima
+2023,Fase de Grupos,4 de mayo,Universitario,Lima,101,Santa Fe,Bogotá,2640,-2539,2,0,2:0,Lima
+2023,Fase de Grupos,23 de mayo,Goiás,Goiânia,749,Universitario,Lima,101,648,1,0,1:0,Goiânia
+2023,Fase de Grupos,8 de junio,Santa Fe,Bogotá,2640,Universitario,Lima,101,2539,2,0,2:0,Bogotá
+2023,Fase de Grupos,28 de junio,Santa Fe,Bogotá,2640,Goiás,Goiânia,749,1891,1,2,1:2,Bogotá
+2023,Fase de Grupos,4 de abril,Goiás,Goiânia,749,Santa Fe,Bogotá,2640,-1891,0,0,0:0,Goiânia
+2023,Fase de Grupos,20 de abril,Universitario,Lima,101,Goiás,Goiânia,749,-648,2,2,2:2,Lima
+2023,Fase de Grupos,4 de mayo,Universitario,Lima,101,Santa Fe,Bogotá,2640,-2539,2,0,2:0,Lima
+2023,Fase de Grupos,23 de mayo,Goiás,Goiânia,749,Universitario,Lima,101,648,1,0,1:0,Goiânia
+2023,Fase de Grupos,8 de junio,Santa Fe,Bogotá,2640,Universitario,Lima,101,2539,2,0,2:0,Bogotá
+2023,Fase de Grupos,28 de junio,Santa Fe,Bogotá,2640,Goiás,Goiânia,749,1891,1,2,1:2,Bogotá
+2023,Fase de Grupos,4 de abril,Estudiantes de Mérida,Mérida,1630,San Lorenzo,Buenos Aires,25,1605,0,1,0:1,Mérida
+2023,Fase de Grupos,5 de abril,Fortaleza,Fortaleza,21,Palestino,Santiago,553,-532,4,0,4:0,Fortaleza
+2023,Fase de Grupos,18 de abril,Palestino,Santiago,553,Estudiantes de Mérida,Mérida,1630,-1077,1,0,1:0,Rancagua
+2023,Fase de Grupos,20 de abril,San Lorenzo,Buenos Aires,25,Fortaleza,Fortaleza,21,4,0,2,0:2,Buenos Aires
+2023,Fase de Grupos,3 de mayo,Palestino,Santiago,553,San Lorenzo,Buenos Aires,25,528,0,0,0:0,Rancagua
+2023,Fase de Grupos,4 de mayo,Fortaleza,Fortaleza,21,Estudiantes de Mérida,Mérida,1630,-1609,6,1,6:1,Fortaleza
+2023,Fase de Grupos,24 de mayo,Fortaleza,Fortaleza,21,San Lorenzo,Buenos Aires,25,-4,3,2,3:2,Fortaleza
+2023,Fase de Grupos,25 de mayo,Estudiantes de Mérida,Mérida,1630,Palestino,Santiago,553,1077,1,5,1:5,Mérida
+2023,Fase de Grupos,6 de junio,Estudiantes de Mérida,Mérida,1630,Fortaleza,Fortaleza,21,1609,1,0,1:0,Mérida
+2023,Fase de Grupos,8 de junio,San Lorenzo,Buenos Aires,25,Palestino,Santiago,553,-528,0,0,0:0,Buenos Aires
+2023,Fase de Grupos,27 de junio,San Lorenzo,Buenos Aires,25,Estudiantes de Mérida,Mérida,1630,-1605,4,1,4:1,Buenos Aires
+2023,Fase de Grupos,27 de junio,Palestino,Santiago,553,Fortaleza,Fortaleza,21,532,1,2,1:2,Rancagua
+2023,Fase de Grupos,4 de abril,Estudiantes de Mérida,Mérida,1630,San Lorenzo,Buenos Aires,25,1605,0,1,0:1,Mérida
+2023,Fase de Grupos,5 de abril,Fortaleza,Fortaleza,21,Palestino,Santiago,553,-532,4,0,4:0,Fortaleza
+2023,Fase de Grupos,18 de abril,Palestino,Santiago,553,Estudiantes de Mérida,Mérida,1630,-1077,1,0,1:0,Rancagua
+2023,Fase de Grupos,20 de abril,San Lorenzo,Buenos Aires,25,Fortaleza,Fortaleza,21,4,0,2,0:2,Buenos Aires
+2023,Fase de Grupos,3 de mayo,Palestino,Santiago,553,San Lorenzo,Buenos Aires,25,528,0,0,0:0,Rancagua
+2023,Fase de Grupos,4 de mayo,Fortaleza,Fortaleza,21,Estudiantes de Mérida,Mérida,1630,-1609,6,1,6:1,Fortaleza
+2023,Fase de Grupos,24 de mayo,Fortaleza,Fortaleza,21,San Lorenzo,Buenos Aires,25,-4,3,2,3:2,Fortaleza
+2023,Fase de Grupos,25 de mayo,Estudiantes de Mérida,Mérida,1630,Palestino,Santiago,553,1077,1,5,1:5,Mérida
+2023,Fase de Grupos,6 de junio,Estudiantes de Mérida,Mérida,1630,Fortaleza,Fortaleza,21,1609,1,0,1:0,Mérida
+2023,Fase de Grupos,8 de junio,San Lorenzo,Buenos Aires,25,Palestino,Santiago,553,-528,0,0,0:0,Buenos Aires
+2023,Fase de Grupos,27 de junio,San Lorenzo,Buenos Aires,25,Estudiantes de Mérida,Mérida,1630,-1605,4,1,4:1,Buenos Aires
+2023,Fase de Grupos,27 de junio,Palestino,Santiago,553,Fortaleza,Fortaleza,21,532,1,2,1:2,Rancagua
+2023,Fase Final,"11 de julio, 19:00 (UTC-5)",Barcelona,Guayaquil,9,Estudiantes (LP),La Plata,9,0,2,1,2:1 (1:1),Estadio Monumental
+2023,Fase Final,"18 de julio, 21:00 (UTC-3)",Estudiantes (LP),La Plata,9,Barcelona,Guayaquil,9,0,4,0,4:0 (3:0),Estadio Jorge Luis Hirschi
+2023,Fase Final,"13 de julio, 18:00 (UTC-4)",Ñublense,Chillán,166,Audax Italiano,Santiago,553,-387,0,0,0:0,Estadio Ester Roa Rebolledo
+2023,Fase Final,"21 de julio, 18:00 (UTC-4)[n. 1]",Audax Italiano,Santiago,553,Ñublense,Chillán,166,387,0,1,0:1 (0:0),Estadio El Teniente
+2023,Fase Final,"12 de julio, 19:00 (UTC-3)",Patronato,Paraná,125,Botafogo,Río de Janeiro,10,115,0,2,0:2 (0:0),Estadio Presbítero Bartolomé Grella
+2023,Fase Final,"19 de julio, 19:00 (UTC-3)",Botafogo,Río de Janeiro,10,Patronato,Paraná,125,-115,1,1,1:1 (1:0),Estadio Nilton Santos
+2023,Fase Final,"11 de julio, 18:00 (UTC-4)",Colo-Colo,Santiago,553,América Mineiro,Belo Horizonte,852,-299,2,1,2:1 (0:0),Estadio Monumental
+2023,Fase Final,"18 de julio, 19:00 (UTC-3)",América Mineiro,Belo Horizonte,852,Colo-Colo,Santiago,553,299,5,1,5:1 (3:0),Estadio Independência
+2023,Fase Final,"13 de julio, 20:00 (UTC-4)",Libertad,Asunción,77,Tigre,Buenos Aires,25,52,2,1,2:1 (0:1),Estadio Defensores del Chaco
+2023,Fase Final,"20 de julio, 21:00 (UTC-3)",Tigre,Buenos Aires,25,Libertad,Asunción,77,-52,0,1,0:1 (0:1),Estadio José Dellagiovanna
+2023,Fase Final,"11 de julio, 21:30 (UTC-3)",Corinthians,São Paulo,760,Universitario,Lima,101,659,1,0,1:0 (0:0),Neo Química Arena
+2023,Fase Final,"18 de julio, 19:30 (UTC-5)",Universitario,Lima,101,Corinthians,São Paulo,760,-659,1,2,1:2 (0:0),Estadio Monumental
+2023,Fase Final,"12 de julio, 19:00 (UTC-5)",Sporting Cristal,Lima,101,Emelec,Guayaquil,9,92,0,1,0:1 (0:0),Estadio Nacional
+2023,Fase Final,"19 de julio, 19:00 (UTC-5)",Emelec,Guayaquil,9,Sporting Cristal,Lima,101,-92,0,0,0:0,Estadio George Capwell
+2023,Fase Final,"12 de julio, 19:00 (UTC-5)",Independiente Medellín,Medellín,1495,San Lorenzo,Buenos Aires,25,1470,0,1,0:1 (0:0),Estadio Atanasio Girardot
+2023,Fase Final,"19 de julio, 21:00 (UTC-3)",San Lorenzo,Buenos Aires,25,Independiente Medellín,Medellín,1495,-1470,2,0,2:0 (1:0),Estadio Pedro Bidegain
+2023,Fase Final,"1 de agosto, 19:00 (UTC-5)",Emelec,Guayaquil,9,Defensa y Justicia,Buenos Aires,25,-16,1,2,1:2 (1:0),Estadio George Capwell
+2023,Fase Final,"8 de agosto, 21:00 (UTC-3)",Defensa y Justicia,Buenos Aires,25,Emelec,Guayaquil,9,16,1,0,1:0 (0:0),Estadio Ciudad de La Plata
+2023,Fase Final,"2 de agosto, 19:00 (UTC-3)",Estudiantes (LP),La Plata,9,Goiás,Goiânia,749,-740,3,0,3:0 (0:0),Estadio Jorge Luis Hirschi
+2023,Fase Final,"9 de agosto, 19:00 (UTC-3)",Goiás,Goiânia,749,Estudiantes (LP),La Plata,9,740,0,2,0:2 (0:1),Estadio Serra Dourada
+2023,Fase Final,"3 de agosto, 21:00 (UTC-3)",América Mineiro,Belo Horizonte,852,Bragantino,Bragança Paulista,852,0,1,1,1:1 (0:1),Estadio Independência
+2023,Fase Final,"10 de agosto, 21:00 (UTC-3)",Bragantino,Bragança Paulista,852,América Mineiro,Belo Horizonte,852,0,3,3,"3:3 (2:2)
+(3:4 p.)",Neo Química Arena
+2023,Fase Final,"3 de agosto, 19:00 (UTC-3)",San Lorenzo,Buenos Aires,25,São Paulo,São Paulo,760,-735,1,0,1:0 (0:0),Estadio Pedro Bidegain
+2023,Fase Final,"10 de agosto, 19:00 (UTC-3)",São Paulo,São Paulo,760,San Lorenzo,Buenos Aires,25,735,2,0,2:0 (1:0),Estadio Morumbi
+2023,Fase Final,"3 de agosto, 20:00 (UTC-4)",Ñublense,Chillán,166,Liga de Quito,Quito,2850,-2684,0,1,0:1 (0:0),Estadio Ester Roa Rebolledo
+2023,Fase Final,"10 de agosto, 19:00 (UTC-5)",Liga de Quito,Quito,2850,Ñublense,Chillán,166,2684,2,3,"2:3 (1:1)
+(4:3 p.)",Estadio Rodrigo Paz Delgado
+2023,Fase Final,"1 de agosto, 18:00 (UTC-4)",Libertad,Asunción,77,Fortaleza,Fortaleza,21,56,0,1,0:1 (0:1),Estadio Defensores del Chaco
+2023,Fase Final,"8 de agosto, 19:00 (UTC-3)",Fortaleza,Fortaleza,21,Libertad,Asunción,77,-56,1,1,1:1 (0:1),Arena Castelão
+2023,Fase Final,"1 de agosto, 21:30 (UTC-3)",Corinthians,São Paulo,760,Newell's Old Boys,Rosario,31,729,2,1,2:1 (0:1),Neo Química Arena
+2023,Fase Final,"8 de agosto, 21:30 (UTC-3)",Newell's Old Boys,Rosario,31,Corinthians,São Paulo,760,-729,0,0,0:0,Estadio Marcelo Bielsa
+2023,Fase Final,"2 de agosto, 19:00 (UTC-3)",Botafogo,Río de Janeiro,10,Guaraní,Asunción,77,-67,2,1,2:1 (0:1),Estadio Nilton Santos
+2023,Fase Final,"9 de agosto, 18:00 (UTC-4)",Guaraní,Asunción,77,Botafogo,Río de Janeiro,10,67,0,0,0:0,Estadio Defensores del Chaco
+2023,Fase Final,"23 de agosto, 19:00 (UTC-3)",Botafogo,Río de Janeiro,10,Defensa y Justicia,Buenos Aires,25,-15,1,1,1:1 (0:0),Estadio Nilton Santos
+2023,Fase Final,"30 de agosto, 19:00 (UTC-3)",Defensa y Justicia,Buenos Aires,25,Botafogo,Río de Janeiro,10,15,2,1,2:1 (1:1),Estadio Florencio Sola
+2023,Fase Final,"22 de agosto, 21:30 (UTC-3)",Corinthians,São Paulo,760,Estudiantes (LP),La Plata,9,751,1,0,1:0 (1:0),Neo Química Arena
+2023,Fase Final,"29 de agosto, 21:30 (UTC-3)",Estudiantes (LP),La Plata,9,Corinthians,São Paulo,760,-751,1,0,"1:0
+.mw-parser-output .sinnegrita,.mw-parser-output .sinnegrita b{font-weight:normal}
+(1:0)
+(2:3 p.)",Estadio Jorge Luis Hirschi
+2023,Fase Final,"24 de agosto, 19:00 (UTC-3)",América Mineiro,Belo Horizonte,852,Fortaleza,Fortaleza,21,831,1,3,1:3 (0:3),Estadio Independência
+2023,Fase Final,"31 de agosto, 19:00 (UTC-3)",Fortaleza,Fortaleza,21,América Mineiro,Belo Horizonte,852,-831,2,1,2:1 (1:0),Arena Castelão
+2023,Fase Final,"24 de agosto, 17:00 (UTC-5)",Liga de Quito,Quito,2850,São Paulo,São Paulo,760,2090,2,1,2:1 (2:0),Estadio Rodrigo Paz Delgado
+2023,Fase Final,"31 de agosto, 19:00 (UTC-3)",São Paulo,São Paulo,760,Liga de Quito,Quito,2850,-2090,1,0,"1:0
+(0:0)
+(4:5 p.)",Estadio Morumbi
+2023,Fase Final,"26 de septiembre, 21:30 (UTC-3)",Corinthians,São Paulo,760,Fortaleza,Fortaleza,21,739,1,1,1:1 (1:1),Neo Química Arena
+2023,Fase Final,"3 de octubre, 21:30 (UTC-3)",Fortaleza,Fortaleza,21,Corinthians,São Paulo,760,-739,2,0,2:0 (0:0),Arena Castelão
+2023,Fase Final,"27 de septiembre, 17:00 (UTC-5)",Liga de Quito,Quito,2850,Defensa y Justicia,Buenos Aires,25,2825,3,0,3:0 (2:0),Estadio Rodrigo Paz Delgado
+2023,Fase Final,"4 de octubre, 19:00 (UTC-3)",Defensa y Justicia,Buenos Aires,25,Liga de Quito,Quito,2850,-2825,0,0,0:0,Estadio Néstor Díaz Pérez
+2023,Fase Final,"28 de octubre, 17:00 (UTC-3)",Fortaleza,Fortaleza,21,Liga de Quito,Quito,2850,-2829,1,1,"1:1
+(1:1, 0:0) (t. s.)
+(3:4 p.)",Estadio Domingo Burgueño Miguel
+2022,Fase de Grupos,Chile 2,Ñublense,Chillán,166,Unión La Calera,La Calera,147,19,1,2,1:2,8 y 15 de marzo
+2022,Fase de Grupos,Colombia 1,La Equidad,Bogotá,2640,Junior,Barranquilla,18,2622,1,3,1:3,10 y 17 de marzo
+2022,Fase de Grupos,Colombia 2,Independiente Medellín,Medellín,1495,América de Cali,Cali,1018,477,3,3,3:3 (3:1 p.),9 y 16 de marzo
+2022,Fase de Grupos,Uruguay 2,Liverpool,Montevideo,43,River Plate,Buenos Aires,25,18,0,3,0:3,9 y 16 de marzo
+2022,Fase de Grupos,Venezuela 1,Estudiantes de Mérida,Mérida,1630,Metropolitanos,Caracas,900,730,0,6,0:6,8 y 15 de marzo
+2022,Fase de Grupos,7 de abril,Barcelona,Guayaquil,9,Montevideo Wanderers,Montevideo,43,-34,4,2,4:2,Guayaquil
+2022,Fase de Grupos,7 de abril,Metropolitanos,Caracas,900,Lanús,Buenos Aires,25,875,0,0,0:0,Caracas
+2022,Fase de Grupos,14 de abril,Montevideo Wanderers,Montevideo,43,Metropolitanos,Caracas,900,-857,1,1,1:1,Montevideo
+2022,Fase de Grupos,14 de abril,Lanús,Buenos Aires,25,Barcelona,Guayaquil,9,16,3,1,3:1,Lanús
+2022,Fase de Grupos,28 de abril,Montevideo Wanderers,Montevideo,43,Lanús,Buenos Aires,25,18,0,1,0:1,Montevideo
+2022,Fase de Grupos,28 de abril,Barcelona,Guayaquil,9,Metropolitanos,Caracas,900,-891,1,0,1:0,Guayaquil
+2022,Fase de Grupos,4 de mayo,Metropolitanos,Caracas,900,Montevideo Wanderers,Montevideo,43,857,0,1,0:1,Caracas
+2022,Fase de Grupos,4 de mayo,Barcelona,Guayaquil,9,Lanús,Buenos Aires,25,-16,1,1,1:1,Guayaquil
+2022,Fase de Grupos,19 de mayo,Lanús,Buenos Aires,25,Montevideo Wanderers,Montevideo,43,-18,1,2,1:2,Lanús
+2022,Fase de Grupos,19 de mayo,Metropolitanos,Caracas,900,Barcelona,Guayaquil,9,891,2,2,2:2,Caracas
+2022,Fase de Grupos,25 de mayo,Lanús,Buenos Aires,25,Metropolitanos,Caracas,900,-875,1,0,1:0,Lanús
+2022,Fase de Grupos,25 de mayo,Montevideo Wanderers,Montevideo,43,Barcelona,Guayaquil,9,34,0,0,0:0,Montevideo
+2022,Fase de Grupos,7 de abril,Barcelona,Guayaquil,9,Montevideo Wanderers,Montevideo,43,-34,4,2,4:2,Guayaquil
+2022,Fase de Grupos,7 de abril,Metropolitanos,Caracas,900,Lanús,Buenos Aires,25,875,0,0,0:0,Caracas
+2022,Fase de Grupos,14 de abril,Montevideo Wanderers,Montevideo,43,Metropolitanos,Caracas,900,-857,1,1,1:1,Montevideo
+2022,Fase de Grupos,14 de abril,Lanús,Buenos Aires,25,Barcelona,Guayaquil,9,16,3,1,3:1,Lanús
+2022,Fase de Grupos,28 de abril,Montevideo Wanderers,Montevideo,43,Lanús,Buenos Aires,25,18,0,1,0:1,Montevideo
+2022,Fase de Grupos,28 de abril,Barcelona,Guayaquil,9,Metropolitanos,Caracas,900,-891,1,0,1:0,Guayaquil
+2022,Fase de Grupos,4 de mayo,Metropolitanos,Caracas,900,Montevideo Wanderers,Montevideo,43,857,0,1,0:1,Caracas
+2022,Fase de Grupos,4 de mayo,Barcelona,Guayaquil,9,Lanús,Buenos Aires,25,-16,1,1,1:1,Guayaquil
+2022,Fase de Grupos,19 de mayo,Lanús,Buenos Aires,25,Montevideo Wanderers,Montevideo,43,-18,1,2,1:2,Lanús
+2022,Fase de Grupos,19 de mayo,Metropolitanos,Caracas,900,Barcelona,Guayaquil,9,891,2,2,2:2,Caracas
+2022,Fase de Grupos,25 de mayo,Lanús,Buenos Aires,25,Metropolitanos,Caracas,900,-875,1,0,1:0,Lanús
+2022,Fase de Grupos,25 de mayo,Montevideo Wanderers,Montevideo,43,Barcelona,Guayaquil,9,34,0,0,0:0,Montevideo
+2022,Fase de Grupos,7 de abril,Cuiabá,Cuiabá,165,Melgar,Arequipa,2335,-2170,2,0,2:0,Cuiabá
+2022,Fase de Grupos,7 de abril,River Plate,Buenos Aires,25,Racing Club,Buenos Aires,25,0,0,1,0:1,Montevideo
+2022,Fase de Grupos,13 de abril,Melgar,Arequipa,2335,River Plate,Buenos Aires,25,2310,2,0,2:0,Arequipa
+2022,Fase de Grupos,13 de abril,Racing Club,Buenos Aires,25,Cuiabá,Cuiabá,165,-140,2,0,2:0,Avellaneda
+2022,Fase de Grupos,27 de abril,Melgar,Arequipa,2335,Racing Club,Buenos Aires,25,2310,3,1,3:1,Arequipa
+2022,Fase de Grupos,27 de abril,Cuiabá,Cuiabá,165,River Plate,Buenos Aires,25,140,1,2,1:2,Cuiabá
+2022,Fase de Grupos,3 de mayo,River Plate,Buenos Aires,25,Melgar,Arequipa,2335,-2310,1,2,1:2,Montevideo
+2022,Fase de Grupos,3 de mayo,Cuiabá,Cuiabá,165,Racing Club,Buenos Aires,25,140,1,2,1:2,Cuiabá
+2022,Fase de Grupos,18 de mayo,River Plate,Buenos Aires,25,Cuiabá,Cuiabá,165,-140,1,2,1:2,Montevideo
+2022,Fase de Grupos,18 de mayo,Racing Club,Buenos Aires,25,Melgar,Arequipa,2335,-2310,1,0,1:0,Avellaneda
+2022,Fase de Grupos,26 de mayo,Racing Club,Buenos Aires,25,River Plate,Buenos Aires,25,0,0,1,0:1,Avellaneda
+2022,Fase de Grupos,26 de mayo,Melgar,Arequipa,2335,Cuiabá,Cuiabá,165,2170,3,1,3:1,Arequipa
+2022,Fase de Grupos,7 de abril,Cuiabá,Cuiabá,165,Melgar,Arequipa,2335,-2170,2,0,2:0,Cuiabá
+2022,Fase de Grupos,7 de abril,River Plate,Buenos Aires,25,Racing Club,Buenos Aires,25,0,0,1,0:1,Montevideo
+2022,Fase de Grupos,13 de abril,Melgar,Arequipa,2335,River Plate,Buenos Aires,25,2310,2,0,2:0,Arequipa
+2022,Fase de Grupos,13 de abril,Racing Club,Buenos Aires,25,Cuiabá,Cuiabá,165,-140,2,0,2:0,Avellaneda
+2022,Fase de Grupos,27 de abril,Melgar,Arequipa,2335,Racing Club,Buenos Aires,25,2310,3,1,3:1,Arequipa
+2022,Fase de Grupos,27 de abril,Cuiabá,Cuiabá,165,River Plate,Buenos Aires,25,140,1,2,1:2,Cuiabá
+2022,Fase de Grupos,3 de mayo,River Plate,Buenos Aires,25,Melgar,Arequipa,2335,-2310,1,2,1:2,Montevideo
+2022,Fase de Grupos,3 de mayo,Cuiabá,Cuiabá,165,Racing Club,Buenos Aires,25,140,1,2,1:2,Cuiabá
+2022,Fase de Grupos,18 de mayo,River Plate,Buenos Aires,25,Cuiabá,Cuiabá,165,-140,1,2,1:2,Montevideo
+2022,Fase de Grupos,18 de mayo,Racing Club,Buenos Aires,25,Melgar,Arequipa,2335,-2310,1,0,1:0,Avellaneda
+2022,Fase de Grupos,26 de mayo,Racing Club,Buenos Aires,25,River Plate,Buenos Aires,25,0,0,1,0:1,Avellaneda
+2022,Fase de Grupos,26 de mayo,Melgar,Arequipa,2335,Cuiabá,Cuiabá,165,2170,3,1,3:1,Arequipa
+2022,Fase de Grupos,5 de abril,Universidad Católica,Santiago,553,Unión La Calera,La Calera,147,406,0,0,0:0,Quito
+2022,Fase de Grupos,5 de abril,Banfield,Buenos Aires,25,Santos,Santos,2,23,1,0,1:0,Banfield
+2022,Fase de Grupos,13 de abril,Santos,Santos,2,Universidad Católica,Santiago,553,-551,3,2,3:2,Santos
+2022,Fase de Grupos,14 de abril,Unión La Calera,La Calera,147,Banfield,Buenos Aires,25,122,1,0,1:0,Viña del Mar
+2022,Fase de Grupos,27 de abril,Universidad Católica,Santiago,553,Banfield,Buenos Aires,25,528,2,0,2:0,Quito
+2022,Fase de Grupos,28 de abril,Unión La Calera,La Calera,147,Santos,Santos,2,145,1,1,1:1,Viña del Mar
+2022,Fase de Grupos,5 de mayo,Banfield,Buenos Aires,25,Unión La Calera,La Calera,147,-122,0,1,0:1,Banfield
+2022,Fase de Grupos,5 de mayo,Universidad Católica,Santiago,553,Santos,Santos,2,551,0,1,0:1,Quito
+2022,Fase de Grupos,17 de mayo,Banfield,Buenos Aires,25,Universidad Católica,Santiago,553,-528,1,1,1:1,Banfield
+2022,Fase de Grupos,18 de mayo,Santos,Santos,2,Unión La Calera,La Calera,147,-145,1,0,1:0,Santos
+2022,Fase de Grupos,24 de mayo,Santos,Santos,2,Banfield,Buenos Aires,25,-23,1,1,1:1,Santos
+2022,Fase de Grupos,24 de mayo,Unión La Calera,La Calera,147,Universidad Católica,Santiago,553,-406,3,2,3:2,Viña del Mar
+2022,Fase de Grupos,5 de abril,Universidad Católica,Santiago,553,Unión La Calera,La Calera,147,406,0,0,0:0,Quito
+2022,Fase de Grupos,5 de abril,Banfield,Buenos Aires,25,Santos,Santos,2,23,1,0,1:0,Banfield
+2022,Fase de Grupos,13 de abril,Santos,Santos,2,Universidad Católica,Santiago,553,-551,3,2,3:2,Santos
+2022,Fase de Grupos,14 de abril,Unión La Calera,La Calera,147,Banfield,Buenos Aires,25,122,1,0,1:0,Viña del Mar
+2022,Fase de Grupos,27 de abril,Universidad Católica,Santiago,553,Banfield,Buenos Aires,25,528,2,0,2:0,Quito
+2022,Fase de Grupos,28 de abril,Unión La Calera,La Calera,147,Santos,Santos,2,145,1,1,1:1,Viña del Mar
+2022,Fase de Grupos,5 de mayo,Banfield,Buenos Aires,25,Unión La Calera,La Calera,147,-122,0,1,0:1,Banfield
+2022,Fase de Grupos,5 de mayo,Universidad Católica,Santiago,553,Santos,Santos,2,551,0,1,0:1,Quito
+2022,Fase de Grupos,17 de mayo,Banfield,Buenos Aires,25,Universidad Católica,Santiago,553,-528,1,1,1:1,Banfield
+2022,Fase de Grupos,18 de mayo,Santos,Santos,2,Unión La Calera,La Calera,147,-145,1,0,1:0,Santos
+2022,Fase de Grupos,24 de mayo,Santos,Santos,2,Banfield,Buenos Aires,25,-23,1,1,1:1,Santos
+2022,Fase de Grupos,24 de mayo,Unión La Calera,La Calera,147,Universidad Católica,Santiago,553,-406,3,2,3:2,Viña del Mar
+2022,Fase de Grupos,28 de abril,Jorge Wilstermann,Cochabamba,2574,São Paulo,São Paulo,760,1814,1,3,1:3,Cochabamba
+2022,Fase de Grupos,19 de mayo,São Paulo,São Paulo,760,Jorge Wilstermann,Cochabamba,2574,-1814,3,0,3:0,São Paulo
+2022,Fase de Grupos,28 de abril,Jorge Wilstermann,Cochabamba,2574,São Paulo,São Paulo,760,1814,1,3,1:3,Cochabamba
+2022,Fase de Grupos,19 de mayo,São Paulo,São Paulo,760,Jorge Wilstermann,Cochabamba,2574,-1814,3,0,3:0,São Paulo
+2022,Fase de Grupos,26 de abril,Independiente Medellín,Medellín,1495,Internacional,Porto Alegre,10,1485,0,1,0:1,Pereira
+2022,Fase de Grupos,17 de mayo,Internacional,Porto Alegre,10,Independiente Medellín,Medellín,1495,-1485,2,0,2:0,Porto Alegre
+2022,Fase de Grupos,26 de abril,Independiente Medellín,Medellín,1495,Internacional,Porto Alegre,10,1485,0,1,0:1,Pereira
+2022,Fase de Grupos,17 de mayo,Internacional,Porto Alegre,10,Independiente Medellín,Medellín,1495,-1485,2,0,2:0,Porto Alegre
+2022,Fase de Grupos,5 de abril,Atlético Goianiense,Goiânia,749,Liga de Quito,Quito,2850,-2101,4,0,4:0,Goiânia
+2022,Fase de Grupos,12 de abril,Defensa y Justicia,Buenos Aires,25,Atlético Goianiense,Goiânia,749,-724,0,1,0:1,Florencio Varela
+2022,Fase de Grupos,28 de abril,Defensa y Justicia,Buenos Aires,25,Liga de Quito,Quito,2850,-2825,1,2,1:2,Florencio Varela
+2022,Fase de Grupos,4 de mayo,Atlético Goianiense,Goiânia,749,Defensa y Justicia,Buenos Aires,25,724,3,2,3:2,Goiânia
+2022,Fase de Grupos,18 de mayo,Liga de Quito,Quito,2850,Defensa y Justicia,Buenos Aires,25,2825,2,2,2:2,Quito
+2022,Fase de Grupos,24 de mayo,Liga de Quito,Quito,2850,Atlético Goianiense,Goiânia,749,2101,1,1,1:1,Quito
+2022,Fase de Grupos,5 de abril,Atlético Goianiense,Goiânia,749,Liga de Quito,Quito,2850,-2101,4,0,4:0,Goiânia
+2022,Fase de Grupos,12 de abril,Defensa y Justicia,Buenos Aires,25,Atlético Goianiense,Goiânia,749,-724,0,1,0:1,Florencio Varela
+2022,Fase de Grupos,28 de abril,Defensa y Justicia,Buenos Aires,25,Liga de Quito,Quito,2850,-2825,1,2,1:2,Florencio Varela
+2022,Fase de Grupos,4 de mayo,Atlético Goianiense,Goiânia,749,Defensa y Justicia,Buenos Aires,25,724,3,2,3:2,Goiânia
+2022,Fase de Grupos,18 de mayo,Liga de Quito,Quito,2850,Defensa y Justicia,Buenos Aires,25,2825,2,2,2:2,Quito
+2022,Fase de Grupos,24 de mayo,Liga de Quito,Quito,2850,Atlético Goianiense,Goiânia,749,2101,1,1,1:1,Quito
+2022,Fase de Grupos,5 de abril,Ceará,Fortaleza,21,Independiente,Buenos Aires,25,-4,2,1,2:1,Fortaleza
+2022,Fase de Grupos,12 de abril,Deportivo La Guaira,Caracas,900,Ceará,Fortaleza,21,879,0,2,0:2,Caracas
+2022,Fase de Grupos,26 de abril,Deportivo La Guaira,Caracas,900,Independiente,Buenos Aires,25,875,0,2,0:2,Caracas
+2022,Fase de Grupos,3 de mayo,Ceará,Fortaleza,21,Deportivo La Guaira,Caracas,900,-879,3,0,3:0,Fortaleza
+2022,Fase de Grupos,19 de mayo,Independiente,Buenos Aires,25,Deportivo La Guaira,Caracas,900,-875,4,0,4:0,Avellaneda
+2022,Fase de Grupos,25 de mayo,Independiente,Buenos Aires,25,Ceará,Fortaleza,21,4,0,2,0:2,Avellaneda
+2022,Fase de Grupos,5 de abril,Ceará,Fortaleza,21,Independiente,Buenos Aires,25,-4,2,1,2:1,Fortaleza
+2022,Fase de Grupos,12 de abril,Deportivo La Guaira,Caracas,900,Ceará,Fortaleza,21,879,0,2,0:2,Caracas
+2022,Fase de Grupos,26 de abril,Deportivo La Guaira,Caracas,900,Independiente,Buenos Aires,25,875,0,2,0:2,Caracas
+2022,Fase de Grupos,3 de mayo,Ceará,Fortaleza,21,Deportivo La Guaira,Caracas,900,-879,3,0,3:0,Fortaleza
+2022,Fase de Grupos,19 de mayo,Independiente,Buenos Aires,25,Deportivo La Guaira,Caracas,900,-875,4,0,4:0,Avellaneda
+2022,Fase de Grupos,25 de mayo,Independiente,Buenos Aires,25,Ceará,Fortaleza,21,4,0,2,0:2,Avellaneda
+2022,Fase de Grupos,6 de abril,Unión,Santa Fe,82,Junior,Barranquilla,18,64,1,1,1:1,Santa Fe
+2022,Fase de Grupos,13 de abril,Junior,Barranquilla,18,Fluminense,Río de Janeiro,10,8,3,0,3:0,Barranquilla
+2022,Fase de Grupos,26 de abril,Fluminense,Río de Janeiro,10,Unión,Santa Fe,82,-72,0,0,0:0,Río de Janeiro
+2022,Fase de Grupos,4 de mayo,Fluminense,Río de Janeiro,10,Junior,Barranquilla,18,-8,2,1,2:1,Río de Janeiro
+2022,Fase de Grupos,19 de mayo,Unión,Santa Fe,82,Fluminense,Río de Janeiro,10,72,0,0,0:0,Santa Fe
+2022,Fase de Grupos,26 de mayo,Junior,Barranquilla,18,Unión,Santa Fe,82,-64,0,4,0:4,Barranquilla
+2022,Fase de Grupos,6 de abril,Unión,Santa Fe,82,Junior,Barranquilla,18,64,1,1,1:1,Santa Fe
+2022,Fase de Grupos,13 de abril,Junior,Barranquilla,18,Fluminense,Río de Janeiro,10,8,3,0,3:0,Barranquilla
+2022,Fase de Grupos,26 de abril,Fluminense,Río de Janeiro,10,Unión,Santa Fe,82,-72,0,0,0:0,Río de Janeiro
+2022,Fase de Grupos,4 de mayo,Fluminense,Río de Janeiro,10,Junior,Barranquilla,18,-8,2,1,2:1,Río de Janeiro
+2022,Fase de Grupos,19 de mayo,Unión,Santa Fe,82,Fluminense,Río de Janeiro,10,72,0,0,0:0,Santa Fe
+2022,Fase de Grupos,26 de mayo,Junior,Barranquilla,18,Unión,Santa Fe,82,-64,0,4,0:4,Barranquilla
+2022,Fase Final,"29 de junio, 20:30 (UTC-4)",Deportivo Táchira,San Cristóbal,825,Santos,Santos,2,823,1,1,"1:1
+.mw-parser-output .sinnegrita,.mw-parser-output .sinnegrita b{font-weight:normal}
+(1:0)",Polideportivo de Pueblo Nuevo
+2022,Fase Final,"6 de julio, 21:30 (UTC-3)",Santos,Santos,2,Deportivo Táchira,San Cristóbal,825,-823,1,1,"1:1
+(0:1)
+(2:4 p.)",Estadio Vila Belmiro
+2022,Fase Final,"30 de junio, 17:15 (UTC-5)",Independiente del Valle,Quito,2850,Lanús,Buenos Aires,25,2825,2,1,"2:1
+(1:0)",Estadio Olímpico Atahualpa
+2022,Fase Final,"7 de julio, 19:15 (UTC-3)",Lanús,Buenos Aires,25,Independiente del Valle,Quito,2850,-2825,0,0,0:0,Estadio Néstor Díaz Pérez
+2022,Fase Final,"28 de junio, 20:30 (UTC-4)",Colo-Colo,Santiago,553,Internacional,Porto Alegre,10,543,2,0,"2:0
+(1:0)",Estadio Monumental
+2022,Fase Final,"5 de julio, 21:30 (UTC-3)",Internacional,Porto Alegre,10,Colo-Colo,Santiago,553,-543,4,1,"4:1
+(2:1)",Estadio Beira-Rio
+2022,Fase Final,"29 de junio, 19:30 (UTC-5)",Deportivo Cali,Cali,1018,Melgar,Arequipa,2335,-1317,0,0,0:0,Estadio Deportivo Cali
+2022,Fase Final,"6 de julio, 19:30 (UTC-5)",Melgar,Arequipa,2335,Deportivo Cali,Cali,1018,1317,2,1,"2:1
+(0:0)",Estadio Monumental UNSA
+2022,Fase Final,"28 de junio, 19:15 (UTC-3)",Nacional,Montevideo,43,Unión,Santa Fe,82,-39,2,0,2:0 (2:0),Estadio Gran Parque Central
+2022,Fase Final,"5 de julio, 19:15 (UTC-3)",Unión,Santa Fe,82,Nacional,Montevideo,43,39,1,2,"1:2
+(0:0)",Estadio 15 de Abril
+2022,Fase Final,"30 de junio, 20:30 (UTC-4)",Olimpia,Asunción,77,Atlético Goianiense,Goiânia,749,-672,2,0,"2:0
+(1:0)",Estadio Defensores del Chaco
+2022,Fase Final,"7 de julio, 21:30 (UTC-3)",Atlético Goianiense,Goiânia,749,Olimpia,Asunción,77,672,2,0,"2:0
+(2:0)
+(5:3 p.)",Estadio Serra Dourada
+2022,Fase Final,"30 de junio, 20:30 (UTC-4)",Universidad Católica,Santiago,553,São Paulo,São Paulo,760,-207,2,4,"2:4
+(0:3)",Estadio San Carlos de Apoquindo
+2022,Fase Final,"7 de julio, 21:30 (UTC-3)",São Paulo,São Paulo,760,Universidad Católica,Santiago,553,207,4,1,"4:1
+(2:0)",Estadio Morumbi
+2022,Fase Final,"29 de junio, 18:15 (UTC-4)",The Strongest,La Paz,3640,Ceará,Fortaleza,21,3619,1,2,"1:2
+(1:0)",Estadio Hernando Siles
+2022,Fase Final,"6 de julio, 19:15 (UTC-3)",Ceará,Fortaleza,21,The Strongest,La Paz,3640,-3619,3,0,"3:0
+(2:0)",Arena Castelão
+2022,Fase Final,"2 de agosto, 19:15 (UTC-3)",Nacional,Montevideo,43,Atlético Goianiense,Goiânia,749,-706,0,1,"0:1
+(0:1)",Estadio Gran Parque Central
+2022,Fase Final,"9 de agosto, 19:15 (UTC-3)",Atlético Goianiense,Goiânia,749,Nacional,Montevideo,43,706,3,0,"3:0
+(2:0)",Estadio Serra Dourada
+2022,Fase Final,"2 de agosto, 20:30 (UTC-4)",Deportivo Táchira,San Cristóbal,825,Independiente del Valle,Quito,2850,-2025,0,1,"0:1
+(0:1)",Polideportivo de Pueblo Nuevo
+2022,Fase Final,"9 de agosto, 19:30 (UTC-5)",Independiente del Valle,Quito,2850,Deportivo Táchira,San Cristóbal,825,2025,4,1,"4:1
+(2:1)",Estadio Rodrigo Paz Delgado
+2022,Fase Final,"3 de agosto, 19:15 (UTC-3)",São Paulo,São Paulo,760,Ceará,Fortaleza,21,739,1,0,"1:0
+(0:0)",Estadio Morumbi
+2022,Fase Final,"10 de agosto, 19:15 (UTC-3)",Ceará,Fortaleza,21,São Paulo,São Paulo,760,-739,2,1,"2:1
+(1:0)
+(3:4 p.)",Arena Castelão
+2022,Fase Final,"4 de agosto, 17:15 (UTC-5)",Melgar,Arequipa,2335,Internacional,Porto Alegre,10,2325,0,0,0:0,Estadio Monumental de la UNSA
+2022,Fase Final,"11 de agosto, 19:15 (UTC-3)",Internacional,Porto Alegre,10,Melgar,Arequipa,2335,-2325,0,0,"0:0
+(1:3 p.)",Estadio Beira-Rio
+2022,Fase Final,"31 de agosto, 19:30 (UTC-5)",Independiente del Valle,Quito,2850,Melgar,Arequipa,2335,515,3,0,"3:0
+(1:0)",Estadio Rodrigo Paz Delgado
+2022,Fase Final,"7 de septiembre, 19:30 (UTC-5)",Melgar,Arequipa,2335,Independiente del Valle,Quito,2850,-515,0,3,"0:3
+(0:1)",Estadio Monumental de la UNSA
+2022,Fase Final,"1 de septiembre, 21:30 (UTC-3)",Atlético Goianiense,Goiânia,749,São Paulo,São Paulo,760,-11,3,1,3:1 (1:1),Estadio Serra Dourada
+2022,Fase Final,"8 de septiembre, 21:30 (UTC-3)",São Paulo,São Paulo,760,Atlético Goianiense,Goiânia,749,11,2,0,"2:0
+(1:0)
+(4:2 p.)",Estadio Morumbi
+2022,Fase Final,"1 de octubre, 17:00 (UTC-3)",São Paulo,São Paulo,760,Independiente del Valle,Quito,2850,-2090,0,2,"0:2
+(0:1)",Estadio Mario Alberto Kempes
+2021,Fase de Grupos,Chile 2,Cobresal,El Salvador,2430,Palestino,Santiago,553,1877,1,2,1:2,18 de marzo y 8 de abril
+2021,Fase de Grupos,Colombia 1,Deportes Tolima,Ibagué,1285,Deportivo Cali,Cali,1018,267,3,0,3:0,16 de marzo y 6 de abril
+2021,Fase de Grupos,21 de abril,San Lorenzo,Buenos Aires,25,Huachipato,Talcahuano,1,24,0,1,0:1,Buenos Aires
+2021,Fase de Grupos,28 de abril,Rosario Central,Rosario,31,San Lorenzo,Buenos Aires,25,6,2,0,2:0,Rosario
+2021,Fase de Grupos,5 de mayo,Huachipato,Talcahuano,1,Rosario Central,Rosario,31,-30,1,1,1:1,Viña del Mar
+2021,Fase de Grupos,12 de mayo,San Lorenzo,Buenos Aires,25,Rosario Central,Rosario,31,-6,1,2,1:2,Buenos Aires
+2021,Fase de Grupos,19 de mayo,Rosario Central,Rosario,31,Huachipato,Talcahuano,1,30,5,0,5:0,Banfield[n. 1]
+2021,Fase de Grupos,26 de mayo,Huachipato,Talcahuano,1,San Lorenzo,Buenos Aires,25,-24,0,3,0:3,Viña del Mar
+2021,Fase de Grupos,21 de abril,San Lorenzo,Buenos Aires,25,Huachipato,Talcahuano,1,24,0,1,0:1,Buenos Aires
+2021,Fase de Grupos,28 de abril,Rosario Central,Rosario,31,San Lorenzo,Buenos Aires,25,6,2,0,2:0,Rosario
+2021,Fase de Grupos,5 de mayo,Huachipato,Talcahuano,1,Rosario Central,Rosario,31,-30,1,1,1:1,Viña del Mar
+2021,Fase de Grupos,12 de mayo,San Lorenzo,Buenos Aires,25,Rosario Central,Rosario,31,-6,1,2,1:2,Buenos Aires
+2021,Fase de Grupos,19 de mayo,Rosario Central,Rosario,31,Huachipato,Talcahuano,1,30,5,0,5:0,Banfield[n. 1]
+2021,Fase de Grupos,26 de mayo,Huachipato,Talcahuano,1,San Lorenzo,Buenos Aires,25,-24,0,3,0:3,Viña del Mar
+2021,Fase de Grupos,4 de mayo,Bahia,Salvador,51,Independiente,Buenos Aires,25,26,2,2,2:2,Salvador
+2021,Fase de Grupos,18 de mayo,Independiente,Buenos Aires,25,Bahia,Salvador,51,-26,1,0,1:0,Avellaneda
+2021,Fase de Grupos,4 de mayo,Bahia,Salvador,51,Independiente,Buenos Aires,25,26,2,2,2:2,Salvador
+2021,Fase de Grupos,18 de mayo,Independiente,Buenos Aires,25,Bahia,Salvador,51,-26,1,0,1:0,Avellaneda
+2021,Fase de Grupos,21 de abril,Ceará,Fortaleza,21,Jorge Wilstermann,Cochabamba,2574,-2553,3,1,3:1,Fortaleza
+2021,Fase de Grupos,22 de abril,Bolívar,La Paz,3640,Arsenal,Buenos Aires,25,3615,2,1,2:1,La Paz
+2021,Fase de Grupos,27 de abril,Arsenal,Buenos Aires,25,Ceará,Fortaleza,21,4,0,0,0:0,Sarandí
+2021,Fase de Grupos,29 de abril,Jorge Wilstermann,Cochabamba,2574,Bolívar,La Paz,3640,-1066,0,0,0:0,Cochabamba
+2021,Fase de Grupos,5 de mayo,Bolívar,La Paz,3640,Ceará,Fortaleza,21,3619,0,0,0:0,La Paz
+2021,Fase de Grupos,6 de mayo,Arsenal,Buenos Aires,25,Jorge Wilstermann,Cochabamba,2574,-2549,3,0,3:0,Sarandí
+2021,Fase de Grupos,12 de mayo,Ceará,Fortaleza,21,Arsenal,Buenos Aires,25,-4,0,0,0:0,Fortaleza
+2021,Fase de Grupos,12 de mayo,Bolívar,La Paz,3640,Jorge Wilstermann,Cochabamba,2574,1066,2,2,2:2,La Paz
+2021,Fase de Grupos,19 de mayo,Jorge Wilstermann,Cochabamba,2574,Arsenal,Buenos Aires,25,2549,1,2,1:2,Cochabamba
+2021,Fase de Grupos,20 de mayo,Ceará,Fortaleza,21,Bolívar,La Paz,3640,-3619,2,0,2:0,Fortaleza
+2021,Fase de Grupos,27 de mayo,Arsenal,Buenos Aires,25,Bolívar,La Paz,3640,-3615,3,1,3:1,Sarandí
+2021,Fase de Grupos,27 de mayo,Jorge Wilstermann,Cochabamba,2574,Ceará,Fortaleza,21,2553,1,0,1:0,Cochabamba
+2021,Fase de Grupos,21 de abril,Ceará,Fortaleza,21,Jorge Wilstermann,Cochabamba,2574,-2553,3,1,3:1,Fortaleza
+2021,Fase de Grupos,22 de abril,Bolívar,La Paz,3640,Arsenal,Buenos Aires,25,3615,2,1,2:1,La Paz
+2021,Fase de Grupos,27 de abril,Arsenal,Buenos Aires,25,Ceará,Fortaleza,21,4,0,0,0:0,Sarandí
+2021,Fase de Grupos,29 de abril,Jorge Wilstermann,Cochabamba,2574,Bolívar,La Paz,3640,-1066,0,0,0:0,Cochabamba
+2021,Fase de Grupos,5 de mayo,Bolívar,La Paz,3640,Ceará,Fortaleza,21,3619,0,0,0:0,La Paz
+2021,Fase de Grupos,6 de mayo,Arsenal,Buenos Aires,25,Jorge Wilstermann,Cochabamba,2574,-2549,3,0,3:0,Sarandí
+2021,Fase de Grupos,12 de mayo,Ceará,Fortaleza,21,Arsenal,Buenos Aires,25,-4,0,0,0:0,Fortaleza
+2021,Fase de Grupos,12 de mayo,Bolívar,La Paz,3640,Jorge Wilstermann,Cochabamba,2574,1066,2,2,2:2,La Paz
+2021,Fase de Grupos,19 de mayo,Jorge Wilstermann,Cochabamba,2574,Arsenal,Buenos Aires,25,2549,1,2,1:2,Cochabamba
+2021,Fase de Grupos,20 de mayo,Ceará,Fortaleza,21,Bolívar,La Paz,3640,-3619,2,0,2:0,Fortaleza
+2021,Fase de Grupos,27 de mayo,Arsenal,Buenos Aires,25,Bolívar,La Paz,3640,-3615,3,1,3:1,Sarandí
+2021,Fase de Grupos,27 de mayo,Jorge Wilstermann,Cochabamba,2574,Ceará,Fortaleza,21,2553,1,0,1:0,Cochabamba
+2021,Fase de Grupos,20 de abril,Metropolitanos,Caracas,900,Melgar,Arequipa,2335,-1435,2,3,2:3,Caracas
+2021,Fase de Grupos,20 de abril,Aucas,Quito,2850,Atlético Paranaense,Curitiba,934,1916,0,1,0:1,Quito
+2021,Fase de Grupos,28 de abril,Atlético Paranaense,Curitiba,934,Metropolitanos,Caracas,900,34,1,0,1:0,Curitiba
+2021,Fase de Grupos,28 de abril,Melgar,Arequipa,2335,Aucas,Quito,2850,-515,2,0,2:0,Lima
+2021,Fase de Grupos,4 de mayo,Metropolitanos,Caracas,900,Aucas,Quito,2850,-1950,3,2,3:2,Caracas
+2021,Fase de Grupos,4 de mayo,Melgar,Arequipa,2335,Atlético Paranaense,Curitiba,934,1401,1,0,1:0,Lima
+2021,Fase de Grupos,11 de mayo,Metropolitanos,Caracas,900,Atlético Paranaense,Curitiba,934,-34,0,1,0:1,Caracas
+2021,Fase de Grupos,13 de mayo,Aucas,Quito,2850,Melgar,Arequipa,2335,515,2,1,2:1,Quito
+2021,Fase de Grupos,19 de mayo,Atlético Paranaense,Curitiba,934,Melgar,Arequipa,2335,-1401,1,0,1:0,Curitiba
+2021,Fase de Grupos,19 de mayo,Aucas,Quito,2850,Metropolitanos,Caracas,900,1950,3,0,3:0,Quito
+2021,Fase de Grupos,27 de mayo,Atlético Paranaense,Curitiba,934,Aucas,Quito,2850,-1916,4,0,4:0,Curitiba
+2021,Fase de Grupos,27 de mayo,Melgar,Arequipa,2335,Metropolitanos,Caracas,900,1435,0,0,0:0,Lima
+2021,Fase de Grupos,20 de abril,Metropolitanos,Caracas,900,Melgar,Arequipa,2335,-1435,2,3,2:3,Caracas
+2021,Fase de Grupos,20 de abril,Aucas,Quito,2850,Atlético Paranaense,Curitiba,934,1916,0,1,0:1,Quito
+2021,Fase de Grupos,28 de abril,Atlético Paranaense,Curitiba,934,Metropolitanos,Caracas,900,34,1,0,1:0,Curitiba
+2021,Fase de Grupos,28 de abril,Melgar,Arequipa,2335,Aucas,Quito,2850,-515,2,0,2:0,Lima
+2021,Fase de Grupos,4 de mayo,Metropolitanos,Caracas,900,Aucas,Quito,2850,-1950,3,2,3:2,Caracas
+2021,Fase de Grupos,4 de mayo,Melgar,Arequipa,2335,Atlético Paranaense,Curitiba,934,1401,1,0,1:0,Lima
+2021,Fase de Grupos,11 de mayo,Metropolitanos,Caracas,900,Atlético Paranaense,Curitiba,934,-34,0,1,0:1,Caracas
+2021,Fase de Grupos,13 de mayo,Aucas,Quito,2850,Melgar,Arequipa,2335,515,2,1,2:1,Quito
+2021,Fase de Grupos,19 de mayo,Atlético Paranaense,Curitiba,934,Melgar,Arequipa,2335,-1401,1,0,1:0,Curitiba
+2021,Fase de Grupos,19 de mayo,Aucas,Quito,2850,Metropolitanos,Caracas,900,1950,3,0,3:0,Quito
+2021,Fase de Grupos,27 de mayo,Atlético Paranaense,Curitiba,934,Aucas,Quito,2850,-1916,4,0,4:0,Curitiba
+2021,Fase de Grupos,27 de mayo,Melgar,Arequipa,2335,Metropolitanos,Caracas,900,1435,0,0,0:0,Lima
+2021,Fase de Grupos,22 de abril,River Plate,Buenos Aires,25,Corinthians,São Paulo,760,-735,0,0,0:0,Asunción
+2021,Fase de Grupos,22 de abril,Peñarol,Montevideo,43,Sport Huancayo,Huancayo,3250,-3207,5,1,5:1,Montevideo
+2021,Fase de Grupos,29 de abril,Corinthians,São Paulo,760,Peñarol,Montevideo,43,717,0,2,0:2,São Paulo
+2021,Fase de Grupos,29 de abril,Sport Huancayo,Huancayo,3250,River Plate,Buenos Aires,25,3225,1,2,1:2,Lima
+2021,Fase de Grupos,6 de mayo,Sport Huancayo,Huancayo,3250,Corinthians,São Paulo,760,2490,0,3,0:3,Lima
+2021,Fase de Grupos,6 de mayo,Peñarol,Montevideo,43,River Plate,Buenos Aires,25,18,3,0,3:0,Montevideo
+2021,Fase de Grupos,13 de mayo,River Plate,Buenos Aires,25,Sport Huancayo,Huancayo,3250,-3225,2,1,2:1,Asunción
+2021,Fase de Grupos,13 de mayo,Peñarol,Montevideo,43,Corinthians,São Paulo,760,-717,4,0,4:0,Montevideo
+2021,Fase de Grupos,18 de mayo,River Plate,Buenos Aires,25,Peñarol,Montevideo,43,-18,2,1,2:1,Asunción
+2021,Fase de Grupos,20 de mayo,Corinthians,São Paulo,760,Sport Huancayo,Huancayo,3250,-2490,5,0,5:0,São Paulo
+2021,Fase de Grupos,26 de mayo,Corinthians,São Paulo,760,River Plate,Buenos Aires,25,735,4,0,4:0,São Paulo
+2021,Fase de Grupos,26 de mayo,Sport Huancayo,Huancayo,3250,Peñarol,Montevideo,43,3207,0,0,0:0,Lima
+2021,Fase de Grupos,22 de abril,River Plate,Buenos Aires,25,Corinthians,São Paulo,760,-735,0,0,0:0,Asunción
+2021,Fase de Grupos,22 de abril,Peñarol,Montevideo,43,Sport Huancayo,Huancayo,3250,-3207,5,1,5:1,Montevideo
+2021,Fase de Grupos,29 de abril,Corinthians,São Paulo,760,Peñarol,Montevideo,43,717,0,2,0:2,São Paulo
+2021,Fase de Grupos,29 de abril,Sport Huancayo,Huancayo,3250,River Plate,Buenos Aires,25,3225,1,2,1:2,Lima
+2021,Fase de Grupos,6 de mayo,Sport Huancayo,Huancayo,3250,Corinthians,São Paulo,760,2490,0,3,0:3,Lima
+2021,Fase de Grupos,6 de mayo,Peñarol,Montevideo,43,River Plate,Buenos Aires,25,18,3,0,3:0,Montevideo
+2021,Fase de Grupos,13 de mayo,River Plate,Buenos Aires,25,Sport Huancayo,Huancayo,3250,-3225,2,1,2:1,Asunción
+2021,Fase de Grupos,13 de mayo,Peñarol,Montevideo,43,Corinthians,São Paulo,760,-717,4,0,4:0,Montevideo
+2021,Fase de Grupos,18 de mayo,River Plate,Buenos Aires,25,Peñarol,Montevideo,43,-18,2,1,2:1,Asunción
+2021,Fase de Grupos,20 de mayo,Corinthians,São Paulo,760,Sport Huancayo,Huancayo,3250,-2490,5,0,5:0,São Paulo
+2021,Fase de Grupos,26 de mayo,Corinthians,São Paulo,760,River Plate,Buenos Aires,25,735,4,0,4:0,São Paulo
+2021,Fase de Grupos,26 de mayo,Sport Huancayo,Huancayo,3250,Peñarol,Montevideo,43,3207,0,0,0:0,Lima
+2021,Fase de Grupos,20 de abril,Atlético Goianiense,Goiânia,749,Newell's Old Boys,Rosario,31,718,0,0,0:0,Goiânia
+2021,Fase de Grupos,22 de abril,Libertad,Asunción,77,Palestino,Santiago,553,-476,2,0,2:0,Asunción
+2021,Fase de Grupos,29 de abril,Newell's Old Boys,Rosario,31,Libertad,Asunción,77,-46,1,3,1:3,Rosario
+2021,Fase de Grupos,29 de abril,Palestino,Santiago,553,Atlético Goianiense,Goiânia,749,-196,0,1,0:1,Rancagua
+2021,Fase de Grupos,4 de mayo,Palestino,Santiago,553,Newell's Old Boys,Rosario,31,522,0,1,0:1,Rancagua
+2021,Fase de Grupos,6 de mayo,Libertad,Asunción,77,Atlético Goianiense,Goiânia,749,-672,1,2,1:2,Asunción
+2021,Fase de Grupos,12 de mayo,Atlético Goianiense,Goiânia,749,Palestino,Santiago,553,196,0,0,0:0,Goiânia
+2021,Fase de Grupos,13 de mayo,Libertad,Asunción,77,Newell's Old Boys,Rosario,31,46,1,0,1:0,Asunción
+2021,Fase de Grupos,19 de mayo,Atlético Goianiense,Goiânia,749,Libertad,Asunción,77,672,0,0,0:0,Goiânia
+2021,Fase de Grupos,20 de mayo,Newell's Old Boys,Rosario,31,Palestino,Santiago,553,-522,3,1,3:1,Rosario
+2021,Fase de Grupos,25 de mayo,Newell's Old Boys,Rosario,31,Atlético Goianiense,Goiânia,749,-718,1,1,1:1,Rosario
+2021,Fase de Grupos,25 de mayo,Palestino,Santiago,553,Libertad,Asunción,77,476,1,2,1:2,Rancagua
+2021,Fase de Grupos,20 de abril,Atlético Goianiense,Goiânia,749,Newell's Old Boys,Rosario,31,718,0,0,0:0,Goiânia
+2021,Fase de Grupos,22 de abril,Libertad,Asunción,77,Palestino,Santiago,553,-476,2,0,2:0,Asunción
+2021,Fase de Grupos,29 de abril,Newell's Old Boys,Rosario,31,Libertad,Asunción,77,-46,1,3,1:3,Rosario
+2021,Fase de Grupos,29 de abril,Palestino,Santiago,553,Atlético Goianiense,Goiânia,749,-196,0,1,0:1,Rancagua
+2021,Fase de Grupos,4 de mayo,Palestino,Santiago,553,Newell's Old Boys,Rosario,31,522,0,1,0:1,Rancagua
+2021,Fase de Grupos,6 de mayo,Libertad,Asunción,77,Atlético Goianiense,Goiânia,749,-672,1,2,1:2,Asunción
+2021,Fase de Grupos,12 de mayo,Atlético Goianiense,Goiânia,749,Palestino,Santiago,553,196,0,0,0:0,Goiânia
+2021,Fase de Grupos,13 de mayo,Libertad,Asunción,77,Newell's Old Boys,Rosario,31,46,1,0,1:0,Asunción
+2021,Fase de Grupos,19 de mayo,Atlético Goianiense,Goiânia,749,Libertad,Asunción,77,672,0,0,0:0,Goiânia
+2021,Fase de Grupos,20 de mayo,Newell's Old Boys,Rosario,31,Palestino,Santiago,553,-522,3,1,3:1,Rosario
+2021,Fase de Grupos,25 de mayo,Newell's Old Boys,Rosario,31,Atlético Goianiense,Goiânia,749,-718,1,1,1:1,Rosario
+2021,Fase de Grupos,25 de mayo,Palestino,Santiago,553,Libertad,Asunción,77,476,1,2,1:2,Rancagua
+2021,Fase de Grupos,22 de abril,Talleres (C),Córdoba,390,Emelec,Guayaquil,9,381,1,2,1:2,Córdoba
+2021,Fase de Grupos,22 de abril,Bragantino,Bragança Paulista,852,Deportes Tolima,Ibagué,1285,-433,2,1,2:1,Bragança Paulista
+2021,Fase de Grupos,28 de abril,Deportes Tolima,Ibagué,1285,Talleres (C),Córdoba,390,895,1,1,1:1,Ibagué
+2021,Fase de Grupos,28 de abril,Emelec,Guayaquil,9,Bragantino,Bragança Paulista,852,-843,3,0,3:0,Guayaquil
+2021,Fase de Grupos,5 de mayo,Bragantino,Bragança Paulista,852,Talleres (C),Córdoba,390,462,0,1,0:1,Bragança Paulista
+2021,Fase de Grupos,7 de mayo,Deportes Tolima,Ibagué,1285,Emelec,Guayaquil,9,1276,1,1,1:1,Lima[n. 2]
+2021,Fase de Grupos,11 de mayo,Bragantino,Bragança Paulista,852,Emelec,Guayaquil,9,843,2,0,2:0,Bragança Paulista
+2021,Fase de Grupos,11 de mayo,Talleres (C),Córdoba,390,Deportes Tolima,Ibagué,1285,-895,0,0,0:0,Córdoba
+2021,Fase de Grupos,18 de mayo,Talleres (C),Córdoba,390,Bragantino,Bragança Paulista,852,-462,0,1,0:1,Córdoba
+2021,Fase de Grupos,19 de mayo,Emelec,Guayaquil,9,Deportes Tolima,Ibagué,1285,-1276,2,0,2:0,Guayaquil
+2021,Fase de Grupos,25 de mayo,Emelec,Guayaquil,9,Talleres (C),Córdoba,390,-381,1,4,1:4,Guayaquil
+2021,Fase de Grupos,25 de mayo,Deportes Tolima,Ibagué,1285,Bragantino,Bragança Paulista,852,433,1,2,1:2,San Cristóbal[n. 3]
+2021,Fase de Grupos,22 de abril,Talleres (C),Córdoba,390,Emelec,Guayaquil,9,381,1,2,1:2,Córdoba
+2021,Fase de Grupos,22 de abril,Bragantino,Bragança Paulista,852,Deportes Tolima,Ibagué,1285,-433,2,1,2:1,Bragança Paulista
+2021,Fase de Grupos,28 de abril,Deportes Tolima,Ibagué,1285,Talleres (C),Córdoba,390,895,1,1,1:1,Ibagué
+2021,Fase de Grupos,28 de abril,Emelec,Guayaquil,9,Bragantino,Bragança Paulista,852,-843,3,0,3:0,Guayaquil
+2021,Fase de Grupos,5 de mayo,Bragantino,Bragança Paulista,852,Talleres (C),Córdoba,390,462,0,1,0:1,Bragança Paulista
+2021,Fase de Grupos,7 de mayo,Deportes Tolima,Ibagué,1285,Emelec,Guayaquil,9,1276,1,1,1:1,Lima[n. 2]
+2021,Fase de Grupos,11 de mayo,Bragantino,Bragança Paulista,852,Emelec,Guayaquil,9,843,2,0,2:0,Bragança Paulista
+2021,Fase de Grupos,11 de mayo,Talleres (C),Córdoba,390,Deportes Tolima,Ibagué,1285,-895,0,0,0:0,Córdoba
+2021,Fase de Grupos,18 de mayo,Talleres (C),Córdoba,390,Bragantino,Bragança Paulista,852,-462,0,1,0:1,Córdoba
+2021,Fase de Grupos,19 de mayo,Emelec,Guayaquil,9,Deportes Tolima,Ibagué,1285,-1276,2,0,2:0,Guayaquil
+2021,Fase de Grupos,25 de mayo,Emelec,Guayaquil,9,Talleres (C),Córdoba,390,-381,1,4,1:4,Guayaquil
+2021,Fase de Grupos,25 de mayo,Deportes Tolima,Ibagué,1285,Bragantino,Bragança Paulista,852,433,1,2,1:2,San Cristóbal[n. 3]
+2021,Fase de Grupos,22 de abril,Grêmio,Porto Alegre,10,La Equidad,Bogotá,2640,-2630,2,1,2:1,Porto Alegre
+2021,Fase de Grupos,29 de abril,Lanús,Buenos Aires,25,Grêmio,Porto Alegre,10,15,1,2,1:2,Lanús
+2021,Fase de Grupos,6 de mayo,La Equidad,Bogotá,2640,Lanús,Buenos Aires,25,2615,0,1,0:1,Asunción[n. 4]
+2021,Fase de Grupos,13 de mayo,Grêmio,Porto Alegre,10,Lanús,Buenos Aires,25,-15,3,1,3:1,Porto Alegre
+2021,Fase de Grupos,20 de mayo,Lanús,Buenos Aires,25,La Equidad,Bogotá,2640,-2615,4,1,4:1,Lanús
+2021,Fase de Grupos,27 de mayo,La Equidad,Bogotá,2640,Grêmio,Porto Alegre,10,2630,0,0,0:0,Ambato[n. 5]
+2021,Fase de Grupos,22 de abril,Grêmio,Porto Alegre,10,La Equidad,Bogotá,2640,-2630,2,1,2:1,Porto Alegre
+2021,Fase de Grupos,29 de abril,Lanús,Buenos Aires,25,Grêmio,Porto Alegre,10,15,1,2,1:2,Lanús
+2021,Fase de Grupos,6 de mayo,La Equidad,Bogotá,2640,Lanús,Buenos Aires,25,2615,0,1,0:1,Asunción[n. 4]
+2021,Fase de Grupos,13 de mayo,Grêmio,Porto Alegre,10,Lanús,Buenos Aires,25,-15,3,1,3:1,Porto Alegre
+2021,Fase de Grupos,20 de mayo,Lanús,Buenos Aires,25,La Equidad,Bogotá,2640,-2615,4,1,4:1,Lanús
+2021,Fase de Grupos,27 de mayo,La Equidad,Bogotá,2640,Grêmio,Porto Alegre,10,2630,0,0,0:0,Ambato[n. 5]
+2021,Fase Final,"13 de julio, 17:15 (UTC-5)",Liga de Quito,Quito,2850,Grêmio,Porto Alegre,10,2840,0,1,0:1 (0:1),Estadio Rodrigo Paz Delgado
+2021,Fase Final,"20 de julio, 19:15 (UTC-3)",Grêmio,Porto Alegre,10,Liga de Quito,Quito,2850,-2840,1,2,1:2 (1:1),Arena do Grêmio
+2021,Fase Final,"13 de julio, 19:30 (UTC-5)",América de Cali,Cali,1018,Atlético Paranaense,Curitiba,934,84,0,1,0:1 (0:0),Estadio Hernán Ramírez Villegas
+2021,Fase Final,"20 de julio, 21:30 (UTC-3)",Atlético Paranaense,Curitiba,934,América de Cali,Cali,1018,-84,4,1,4:1 (1:0),Arena da Baixada
+2021,Fase Final,"14 de julio, 17:15 (UTC-5)",Sporting Cristal,Lima,101,Arsenal,Buenos Aires,25,76,2,1,2:1 (0:0),Estadio Nacional
+2021,Fase Final,"21 de julio, 19:15 (UTC-3)",Arsenal,Buenos Aires,25,Sporting Cristal,Lima,101,-76,1,1,1:1 (0:0),Estadio Julio Humberto Grondona
+2021,Fase Final,"14 de julio, 19:30 (UTC-5)",Independiente del Valle,Quito,2850,Bragantino,Bragança Paulista,852,1998,0,2,0:2 (0:1),Estadio Banco Guayaquil
+2021,Fase Final,"21 de julio, 21:30 (UTC-3)",Bragantino,Bragança Paulista,852,Independiente del Valle,Quito,2850,-1998,1,1,1:1 (0:1),Estadio Nabi Abi Chedid
+2021,Fase Final,"14 de julio, 19:30 (UTC-5)",Junior,Barranquilla,18,Libertad,Asunción,77,-59,3,4,3:4 (3:2),Estadio Metropolitano
+2021,Fase Final,"21 de julio, 20:30 (UTC-4)",Libertad,Asunción,77,Junior,Barranquilla,18,59,0,1,0:1 (0:0),Estadio Defensores del Chaco
+2021,Fase Final,"15 de julio, 19:15 (UTC-3)",Santos,Santos,2,Independiente,Buenos Aires,25,-23,1,0,1:0 (0:0),Estadio Vila Belmiro
+2021,Fase Final,"22 de julio, 19:15 (UTC-3)",Independiente,Buenos Aires,25,Santos,Santos,2,23,1,1,1:1 (0:1),Estadio Libertadores de América
+2021,Fase Final,"15 de julio, 20:30 (UTC-4)",Deportivo Táchira,San Cristóbal,825,Rosario Central,Rosario,31,794,2,2,2:2 (0:1),Polideportivo de Pueblo Nuevo
+2021,Fase Final,"22 de julio, 21:30 (UTC-3)",Rosario Central,Rosario,31,Deportivo Táchira,San Cristóbal,825,-794,1,0,1:0 (1:0),Estadio Gigante de Arroyito
+2021,Fase Final,"15 de julio, 21:30 (UTC-3)",Nacional,Montevideo,43,Peñarol,Montevideo,43,0,1,2,1:2 (0:1),Estadio Gran Parque Central
+2021,Fase Final,"22 de julio, 21:30 (UTC-3)",Peñarol,Montevideo,43,Nacional,Montevideo,43,0,0,1,0:1 (0:0),Estadio Campeón del Siglo
+2021,Fase Final,"10 de agosto, 19:15 (UTC-3)",Rosario Central,Rosario,31,Bragantino,Bragança Paulista,852,-821,3,4,3:4 (1:3),Estadio Gigante de Arroyito
+2021,Fase Final,"17 de agosto, 19:15 (UTC-3)",Bragantino,Bragança Paulista,852,Rosario Central,Rosario,31,821,1,0,1:0 (0:0),Estadio Nabi Abi Chedid
+2021,Fase Final,"11 de agosto, 17:15 (UTC-5)",Sporting Cristal,Lima,101,Peñarol,Montevideo,43,58,1,3,1:3 (0:2),Estadio Nacional
+2021,Fase Final,"18 de agosto, 19:15 (UTC-3)",Peñarol,Montevideo,43,Sporting Cristal,Lima,101,-58,1,0,1:0 (1:0),Estadio Campeón del Siglo
+2021,Fase Final,"12 de agosto, 17:15 (UTC-5)",Liga de Quito,Quito,2850,Atlético Paranaense,Curitiba,934,1916,1,0,1:0 (0:0),Estadio Rodrigo Paz Delgado
+2021,Fase Final,"19 de agosto, 19:15 (UTC-3)",Atlético Paranaense,Curitiba,934,Liga de Quito,Quito,2850,-1916,4,2,4:2 (2:2),Arena da Baixada
+2021,Fase Final,"12 de agosto, 21:30 (UTC-3)",Santos,Santos,2,Libertad,Asunción,77,-75,2,1,2:1 (1:0),Estadio Vila Belmiro
+2021,Fase Final,"19 de agosto, 20:30 (UTC-4)",Libertad,Asunción,77,Santos,Santos,2,75,1,0,1:0 (1:0),Estadio Defensores del Chaco
+2021,Fase Final,"22 de septiembre, 19:15 (UTC-3)",Bragantino,Bragança Paulista,852,Libertad,Asunción,77,775,2,0,2:0 (1:0),Estadio Nabi Abi Chedid
+2021,Fase Final,"29 de septiembre, 18:15 (UTC-4)",Libertad,Asunción,77,Bragantino,Bragança Paulista,852,-775,1,3,1:3 (0:1),Estadio Defensores del Chaco
+2021,Fase Final,"23 de septiembre, 21:30 (UTC-3)",Peñarol,Montevideo,43,Atlético Paranaense,Curitiba,934,-891,1,2,1:2 (1:1),Estadio Campeón del Siglo
+2021,Fase Final,"30 de septiembre, 21:30 (UTC-3)",Atlético Paranaense,Curitiba,934,Peñarol,Montevideo,43,891,2,0,2:0 (1:0),Arena da Baixada
+2021,Fase Final,"20 de noviembre, 17:00 (UTC-3)",Atlético Paranaense,Curitiba,934,Bragantino,Bragança Paulista,852,82,1,0,1:0 (1:0),Estadio Centenario
+2020,Fase Final,"25 de noviembre de 2020, 21:30 (UTC-3)",Fénix,Montevideo,43,Independiente,Buenos Aires,25,18,1,4,1:4 (1:3),Estadio Alfredo Víctor Viera
+2020,Fase Final,"2 de diciembre de 2020, 21:30 (UTC-3)",Independiente,Buenos Aires,25,Fénix,Montevideo,43,-18,1,0,1:0 (1:0),Estadio Libertadores de América
+2020,Fase Final,"25 de noviembre de 2020, 18:15 (UTC-4)",Bolívar,La Paz,3640,Lanús,Buenos Aires,25,3615,2,1,2:1 (1:1),Estadio Hernando Siles
+2020,Fase Final,"2 de diciembre de 2020, 19:15 (UTC-3)",Lanús,Buenos Aires,25,Bolívar,La Paz,3640,-3615,6,2,6:2 (2:1),Estadio Ciudad de Lanús
+2020,Fase Final,"26 de noviembre de 2020, 19:15 (UTC-3)",River Plate,Buenos Aires,25,Universidad Católica,Santiago,553,-528,1,2,1:2 (1:1),Estadio Alfredo Víctor Viera
+2020,Fase Final,"3 de diciembre de 2020, 21:30 (UTC-3)",Universidad Católica,Santiago,553,River Plate,Buenos Aires,25,528,0,1,0:1 (0:0),Estadio San Carlos de Apoquindo
+2020,Fase Final,"24 de noviembre de 2020, 21:30 (UTC-3)",Vélez Sarsfield,Buenos Aires,25,Deportivo Cali,Cali,1018,-993,2,0,2:0 (0:0),Estadio José Amalfitani
+2020,Fase Final,"1 de diciembre de 2020, 19:30 (UTC-5)",Deportivo Cali,Cali,1018,Vélez Sarsfield,Buenos Aires,25,993,1,5,1:5 (1:2),Estadio Deportivo Cali
+2020,Fase Final,"24 de noviembre de 2020, 19:15 (UTC-3)",Bahia,Salvador,51,Unión,Santa Fe,82,-31,1,0,1:0 (0:0),Arena Fonte Nova
+2020,Fase Final,"1 de diciembre de 2020, 19:15 (UTC-3)",Unión,Santa Fe,82,Bahia,Salvador,51,31,0,0,0:0,Estadio 15 de Abril
+2020,Fase Final,"26 de noviembre de 2020, 21:30 (UTC-3)",Defensa y Justicia,Buenos Aires,25,Vasco da Gama,Río de Janeiro,10,15,1,1,1:1 (0:0),Estadio Norberto Tomaghello
+2020,Fase Final,"3 de diciembre de 2020, 21:30 (UTC-3)",Vasco da Gama,Río de Janeiro,10,Defensa y Justicia,Buenos Aires,25,-15,0,1,0:1 (0:0),Estadio São Januário
+2020,Fase Final,"26 de noviembre de 2020, 21:30 (UTC-5)",Junior,Barranquilla,18,Unión La Calera,La Calera,147,-129,2,1,2:1 (1:0),Estadio Metropolitano
+2020,Fase Final,"3 de diciembre de 2020, 19:15 (UTC-3)",Unión La Calera,La Calera,147,Junior,Barranquilla,18,129,2,1,"2:1
+.mw-parser-output .sinnegrita,.mw-parser-output .sinnegrita b{font-weight:normal}
+(1:1)
+(2:4 p.)",Estadio Nicolás Chahuán Nazar
+2020,Fase Final,"25 de noviembre de 2020, 21:30 (UTC-3)",Coquimbo Unido,Coquimbo,15,Sport Huancayo,Huancayo,3250,-3235,0,0,0:0,Estadio Francisco Sánchez Rumoroso
+2020,Fase Final,"2 de diciembre de 2020, 19:30 (UTC-5)",Sport Huancayo,Huancayo,3250,Coquimbo Unido,Coquimbo,15,3235,0,2,0:2 (0:1),Estadio Nacional
+2020,Fase Final,"10 de diciembre de 2020, 19:15 (UTC-3)",Lanús,Buenos Aires,25,Independiente,Buenos Aires,25,0,0,0,0:0,Estadio Ciudad de Lanús
+2020,Fase Final,"17 de diciembre de 2020, 19:15 (UTC-3)",Independiente,Buenos Aires,25,Lanús,Buenos Aires,25,0,1,3,1:3 (0:3),Estadio Libertadores de América
+2020,Fase Final,"8 de diciembre de 2020, 21:30 (UTC-3)",Vélez Sarsfield,Buenos Aires,25,Universidad Católica,Santiago,553,-528,1,2,1:2 (0:1),Estadio José Amalfitani
+2020,Fase Final,"15 de diciembre de 2020, 21:30 (UTC-3)",Universidad Católica,Santiago,553,Vélez Sarsfield,Buenos Aires,25,528,1,3,1:3 (0:1),Estadio San Carlos de Apoquindo
+2020,Fase Final,"9 de diciembre de 2020, 19:15 (UTC-3)",Bahia,Salvador,51,Defensa y Justicia,Buenos Aires,25,26,2,3,2:3 (1:2),Arena Fonte Nova
+2020,Fase Final,"16 de diciembre de 2020, 19:15 (UTC-3)",Defensa y Justicia,Buenos Aires,25,Bahia,Salvador,51,-26,1,0,1:0 (0:0),Estadio Norberto Tomaghello
+2020,Fase Final,"9 de diciembre de 2020, 19:30 (UTC-5)",Junior,Barranquilla,18,Coquimbo Unido,Coquimbo,15,3,1,2,1:2 (1:0),Estadio Metropolitano
+2020,Fase Final,"16 de diciembre de 2020, 21:30 (UTC-3)",Coquimbo Unido,Coquimbo,15,Junior,Barranquilla,18,-3,0,1,0:1 (0:1),Estadio Francisco Sánchez Rumoroso
+2020,Fase Final,"6 de enero de 2021, 21:30 (UTC-3)",Vélez Sarsfield,Buenos Aires,25,Lanús,Buenos Aires,25,0,0,1,0:1 (0:1),Estadio José Amalfitani
+2020,Fase Final,"13 de enero de 2021, 21:30 (UTC-3)",Lanús,Buenos Aires,25,Vélez Sarsfield,Buenos Aires,25,0,3,0,3:0 (1:0),Estadio Ciudad de Lanús
+2020,Fase Final,"12 de enero de 2021, 19:15 (UTC-3)[n. 1]",Coquimbo Unido,Coquimbo,15,Defensa y Justicia,Buenos Aires,25,-10,0,0,0:0,Estadio Manuel Ferreira
+2020,Fase Final,"16 de enero de 2021, 20:30 (UTC-3)[n. 2]",Defensa y Justicia,Buenos Aires,25,Coquimbo Unido,Coquimbo,15,10,4,2,4:2 (4:1),Estadio Norberto Tomaghello
+2020,Fase Final,"23 de enero de 2021, 17:00 (UTC-3)",Lanús,Buenos Aires,25,Defensa y Justicia,Buenos Aires,25,0,0,3,0:3 (0:1),Estadio Mario Alberto Kempes
+2019,Fase Final,"9 de julio de 2019, 20:30",Royal Pari,Santa Cruz de la Sierra,416,La Equidad,Bogotá,2640,-2224,1,2,1:2 (1:0),Estadio Ramón Aguilera
+2019,Fase Final,"16 de julio de 2019, 19:30",La Equidad,Bogotá,2640,Royal Pari,Santa Cruz de la Sierra,416,2224,2,1,2:1 (0:1),Estadio El Campín
+2019,Fase Final,"24 de julio de 2019, 21:30",Botafogo,Río de Janeiro,10,Atlético Mineiro,Belo Horizonte,852,-842,0,1,0:1 (0:1),Estadio Nilton Santos
+2019,Fase Final,"31 de julio de 2019, 21:30",Atlético Mineiro,Belo Horizonte,852,Botafogo,Río de Janeiro,10,842,2,0,2:0 (0:0),Estadio Independencia
+2019,Fase Final,"23 de julio de 2019, 16:00",Zulia,Maracaibo,6,Sporting Cristal,Lima,101,-95,1,0,1:0 (0:0),Estadio José Encarnación
+2019,Fase Final,"30 de julio de 2019, 17:15",Sporting Cristal,Lima,101,Zulia,Maracaibo,6,95,3,2,3:2 (0:1),Estadio Alejandro Villanueva
+2019,Fase Final,"11 de julio de 2019, 21:30",Colón,Santa Fe,82,Argentinos Juniors,Buenos Aires,25,57,0,1,0:1 (0:1),Estadio Estanislao López
+2019,Fase Final,"18 de julio de 2019, 21:30",Argentinos Juniors,Buenos Aires,25,Colón,Santa Fe,82,-57,0,1,"0:1
+.mw-parser-output .sinnegrita,.mw-parser-output .sinnegrita b{font-weight:normal}
+(0:0)
+(3:4 p.)",Estadio Diego Maradona
+2019,Fase Final,"10 de julio de 2019, 16:00",Caracas,Caracas,900,Independiente del Valle,Quito,2850,-1950,0,0,0:0,Estadio Olímpico de la UCV
+2019,Fase Final,"17 de julio de 2019, 19:30",Independiente del Valle,Quito,2850,Caracas,Caracas,900,1950,2,0,2:0 (0:0),Estadio Olímpico Atahualpa
+2019,Fase Final,"25 de julio de 2019, 21:30",Independiente,Buenos Aires,25,Universidad Católica,Santiago,553,-528,1,0,1:0 (0:0),Estadio Libertadores de América
+2019,Fase Final,"1 de agosto de 2019, 19:30",Universidad Católica,Santiago,553,Independiente,Buenos Aires,25,528,3,2,3:2 (1:0),Estadio Olímpico Atahualpa
+2019,Fase Final,"23 de julio de 2019, 21:30",Peñarol,Montevideo,43,Fluminense,Río de Janeiro,10,33,1,2,1:2 (0:1),Estadio Campeón del Siglo
+2019,Fase Final,"30 de julio de 2019, 21:30",Fluminense,Río de Janeiro,10,Peñarol,Montevideo,43,-33,3,1,3:1 (2:0),Estadio Maracaná
+2019,Fase Final,"25 de julio de 2019, 21:30 (UTC-3)",Corinthians,São Paulo,760,Montevideo Wanderers,Montevideo,43,717,2,0,2:0 (1:0),Arena Corinthians
+2019,Fase Final,"1 de agosto de 2019, 21:30",Montevideo Wanderers,Montevideo,43,Corinthians,São Paulo,760,-717,1,2,1:2 (0:0),Estadio Gran Parque Central
+2019,Fase Final,"20 de agosto de 2019, 21:30",Atlético Mineiro,Belo Horizonte,852,La Equidad,Bogotá,2640,-1788,2,1,2:1 (1:1),Estadio Independencia
+2019,Fase Final,"27 de agosto de 2019, 19:30",La Equidad,Bogotá,2640,Atlético Mineiro,Belo Horizonte,852,1788,1,3,1:3 (0:1),Estadio El Campín
+2019,Fase Final,"8 de agosto de 2019, 16:00",Zulia,Maracaibo,6,Colón,Santa Fe,82,-76,1,0,1:0 (0:0),Estadio José Encarnación
+2019,Fase Final,"15 de agosto de 2019, 21:30",Colón,Santa Fe,82,Zulia,Maracaibo,6,76,4,0,4:0 (0:0),Estadio Estanislao López
+2019,Fase Final,"6 de agosto de 2019, 21:30",Independiente,Buenos Aires,25,Independiente del Valle,Quito,2850,-2825,2,1,2:1 (0:0),Estadio Libertadores de América
+2019,Fase Final,"13 de agosto de 2019, 19:30",Independiente del Valle,Quito,2850,Independiente,Buenos Aires,25,2825,1,0,1:0 (0:0),Estadio Olímpico Atahualpa
+2019,Fase Final,"22 de agosto de 2019, 21:30",Corinthians,São Paulo,760,Fluminense,Río de Janeiro,10,750,0,0,0:0,Arena Corinthians
+2019,Fase Final,"29 de agosto de 2019, 21:30",Fluminense,Río de Janeiro,10,Corinthians,São Paulo,760,-750,1,1,1:1 (0:0),Estadio Maracaná
+2019,Fase Final,"19 de septiembre de 2019, 21:30 (UTC-3)",Colón,Santa Fe,82,Atlético Mineiro,Belo Horizonte,852,-770,2,1,2:1 (0:1),Estadio Brig. Gral. Estanislao López
+2019,Fase Final,"26 de septiembre de 2019, 21:30 (UTC-3)",Atlético Mineiro,Belo Horizonte,852,Colón,Santa Fe,82,770,2,1,"2:1
+(1:0)
+(3:4 p.)",Estadio Mineirão
+2019,Fase Final,"18 de septiembre de 2019, 21:30 (UTC-3)",Corinthians,São Paulo,760,Independiente del Valle,Quito,2850,-2090,0,2,0:2 (0:1),Arena Corinthians
+2019,Fase Final,"25 de septiembre de 2019, 19:30 (UTC-5)",Independiente del Valle,Quito,2850,Corinthians,São Paulo,760,2090,2,2,2:2 (0:1),Estadio Olímpico Atahualpa
+2019,Fase Final,"9 de noviembre de 2019, 17:30 (UTC-3)",Independiente del Valle,Quito,2850,Colón,Santa Fe,82,2768,3,1,3:1 (2:0),Estadio General Pablo Rojas
+2018,Fase Final,"18 de septiembre de 2018, 19:45 (UTC-5)",Santa Fe,Bogotá,2640,Millonarios,Bogotá,2640,0,0,0,0:0,Estadio El Campín
+2018,Fase Final,"2 de octubre de 2018, 19:45 (UTC-5)",Millonarios,Bogotá,2640,Santa Fe,Bogotá,2640,0,0,0,"0:0
+(3:5 p.)",Estadio El Campín
+2018,Fase Final,"22 de agosto de 2018, 19:45 (UTC-5)",Liga de Quito,Quito,2850,Deportivo Cali,Cali,1018,1832,1,0,1:0 (1:0),Estadio Rodrigo Paz Delgado
+2018,Fase Final,"19 de septiembre de 2018, 19:45 (UTC-5)",Deportivo Cali,Cali,1018,Liga de Quito,Quito,2850,-1832,1,0,"1:0 (1:0)
+(3:1 p.)",Estadio Deportivo Cali
+2018,Fase Final,"26 de septiembre de 2018, 19:15 (UTC-5)",Junior,Barranquilla,18,Colón,Santa Fe,82,-64,1,0,1:0 (0:0),Estadio Metropolitano
+2018,Fase Final,"4 de octubre de 2018, 19:30 (UTC-3)",Colón,Santa Fe,82,Junior,Barranquilla,18,64,1,1,1:1 (0:0),Estadio Brig. Gral. Estanislao López
+2018,Fase Final,"21 de agosto de 2018, 19:30 (UTC-3)",Defensa y Justicia,Buenos Aires,25,Banfield,Buenos Aires,25,0,0,0,0:0,Estadio Norberto Tomaghello
+2018,Fase Final,"27 de septiembre de 2018, 21:15 (UTC-3)",Banfield,Buenos Aires,25,Defensa y Justicia,Buenos Aires,25,0,0,2,0:2 (0:0),Estadio Florencio Sola
+2018,Fase Final,"20 de septiembre de 2018, 21:45 (UTC-3)",Bahia,Salvador,51,Botafogo,Río de Janeiro,10,41,2,1,2:1 (1:0),Arena Fonte Nova
+2018,Fase Final,"3 de octubre de 2018, 21:45 (UTC-3)",Botafogo,Río de Janeiro,10,Bahia,Salvador,51,-41,2,1,"2:1 (2:1)
+(4:5 p.)",Estadio Olímpico Nilton Santos
+2018,Fase Final,"19 de septiembre de 2018, 18:30 (UTC-4)",Caracas,Caracas,900,Atlético Paranaense,Curitiba,934,-34,0,2,0:2 (0:1),Estadio Olímpico de la UCV
+2018,Fase Final,"3 de octubre de 2018, 19:30 (UTC-3)",Atlético Paranaense,Curitiba,934,Caracas,Caracas,900,34,2,1,2:1 (1:0),Arena da Baixada
+2018,Fase Final,"22 de agosto de 2018, 19:30 (UTC-3)",San Lorenzo,Buenos Aires,25,Nacional,Montevideo,43,-18,3,1,3:1 (2:0),Estadio Pedro Bidegain
+2018,Fase Final,"25 de septiembre de 2018, 21:15 (UTC-3)",Nacional,Montevideo,43,San Lorenzo,Buenos Aires,25,18,2,0,2:0 (1:0),Estadio Gran Parque Central
+2018,Fase Final,"20 de septiembre de 2018, 17:30 (UTC-5)",Deportivo Cuenca,Cuenca,2560,Fluminense,Río de Janeiro,10,2550,0,2,0:2 (0:1),Estadio Rodrigo Paz Delgado
+2018,Fase Final,"4 de octubre de 2018, 19:30 (UTC-3)",Fluminense,Río de Janeiro,10,Deportivo Cuenca,Cuenca,2560,-2550,2,0,2:0 (1:0),Estadio de Maracaná
+2018,Fase Final,"23 de octubre de 2018, 19:45 (UTC-5)",Santa Fe,Bogotá,2640,Deportivo Cali,Cali,1018,1622,1,1,1:1 (1:1),Estadio El Campín
+2018,Fase Final,"30 de octubre de 2018, 19:45 (UTC-5)",Deportivo Cali,Cali,1018,Santa Fe,Bogotá,2640,-1622,1,2,1:2 (0:2),Estadio Deportivo Cali
+2018,Fase Final,"25 de octubre de 2018, 19:45 (UTC-5)",Junior,Barranquilla,18,Defensa y Justicia,Buenos Aires,25,-7,2,0,2:0 (0:0),Estadio Metropolitano
+2018,Fase Final,"1 de noviembre de 2018, 21:45 (UTC-3)",Defensa y Justicia,Buenos Aires,25,Junior,Barranquilla,18,7,3,1,3:1 (2:0),Estadio Libertadores de América
+2018,Fase Final,"24 de octubre de 2018, 21:45 (UTC-3)",Bahia,Salvador,51,Atlético Paranaense,Curitiba,934,-883,0,1,0:1 (0:0),Arena Fonte Nova
+2018,Fase Final,"31 de octubre de 2018, 21:45 (UTC-3)",Atlético Paranaense,Curitiba,934,Bahia,Salvador,51,883,0,1,"0:1 (0:1)
+(4:1 p.)",Arena da Baixada
+2018,Fase Final,"24 de octubre de 2018, 19:30 (UTC-3)",Fluminense,Río de Janeiro,10,Nacional,Montevideo,43,-33,1,1,1:1 (1:0),Estadio Olímpico Nilton Santos
+2018,Fase Final,"31 de octubre de 2018, 19:30 (UTC-3)",Nacional,Montevideo,43,Fluminense,Río de Janeiro,10,33,0,1,0:1 (0:0),Estadio Gran Parque Central
+2018,Fase Final,"8 de noviembre de 2018, 19:45 (UTC-5)",Santa Fe,Bogotá,2640,Junior,Barranquilla,18,2622,0,2,0:2 (0:1),Estadio El Campín
+2018,Fase Final,"29 de noviembre de 2018, 19:45 (UTC-5)",Junior,Barranquilla,18,Santa Fe,Bogotá,2640,-2622,1,0,1:0 (1:0),Estadio Metropolitano
+2018,Fase Final,"7 de noviembre de 2018, 21:45 (UTC-2)",Atlético Paranaense,Curitiba,934,Fluminense,Río de Janeiro,10,924,2,0,2:0 (1:0),Arena da Baixada
+2018,Fase Final,"28 de noviembre de 2018, 21:45 (UTC-2)",Fluminense,Río de Janeiro,10,Atlético Paranaense,Curitiba,934,-924,0,2,0:2 (0:1),Estadio de Maracaná
+2018,Fase Final,"5 de diciembre de 2018, 19:45 (UTC-5)",Junior,Barranquilla,18,Atlético Paranaense,Curitiba,934,-916,1,1,1:1 (0:0),Estadio Metropolitano
+2018,Fase Final,"12 de diciembre de 2018, 21:45 (UTC-2)",Atlético Paranaense,Curitiba,934,Junior,Barranquilla,18,916,1,1,"1:1
+.mw-parser-output .sinnegrita,.mw-parser-output .sinnegrita b{font-weight:normal}
+(1:1, 1:0) (t. s.)
+(4:3 p.)",Estadio Joaquim Américo Guimarães
+2017,Fase Final,"13 de septiembre de 2017, 21:45 (UTC-3)",Corinthians,São Paulo,760,Racing Club,Buenos Aires,25,735,1,1,1:1 (1:0),Arena Corinthians
+2017,Fase Final,"20 de septiembre de 2017, 21:45 (UTC-3)",Racing Club,Buenos Aires,25,Corinthians,São Paulo,760,-735,0,0,0:0,Estadio Presidente Perón
+2017,Fase Final,"24 de agosto de 2017, 20:45 (UTC-4)",Libertad,Asunción,77,Santa Fe,Bogotá,2640,-2563,1,0,1:0 (0:0),Estadio Defensores del Chaco
+2017,Fase Final,"14 de septiembre de 2017, 19:45 (UTC-5)",Santa Fe,Bogotá,2640,Libertad,Asunción,77,2563,1,1,1:1 (0:1),Estadio El Campín
+2017,Fase Final,"23 de agosto de 2017, 20:45 (UTC-4)",Nacional,Montevideo,43,Estudiantes (LP),La Plata,9,34,1,0,1:0 (0:0),Estadio Defensores del Chaco
+2017,Fase Final,"19 de septiembre de 2017, 19:15 (UTC-3)",Estudiantes (LP),La Plata,9,Nacional,Montevideo,43,-34,0,1,0:1 (0:0),Estadio Ciudad de La Plata
+2017,Fase Final,"22 de agosto de 2017, 21:45 (UTC-3)",Atlético Tucumán,Tucumán,431,Independiente,Buenos Aires,25,406,1,0,1:0 (1:0),Estadio José Fierro
+2017,Fase Final,"12 de septiembre de 2017, 21:45 (UTC-3)",Independiente,Buenos Aires,25,Atlético Tucumán,Tucumán,431,-406,2,0,2:0 (1:0),Estadio Libertadores de América
+2017,Fase Final,"12 de septiembre de 2017, 20:45 (UTC-4)",Cerro Porteño,Asunción,77,Junior,Barranquilla,18,59,0,0,0:0,Estadio General Pablo Rojas
+2017,Fase Final,"19 de septiembre de 2017, 19:45 (UTC-5)",Junior,Barranquilla,18,Cerro Porteño,Asunción,77,-59,3,1,3:1 (1:0),Estadio Metropolitano
+2017,Fase Final,"13 de septiembre de 2017, 19:15 (UTC-3)",Sport Recife,Recife,10,Ponte Preta,Campinas,685,-675,3,1,3:1 (2:0),Estadio Ilha do Retiro
+2017,Fase Final,"20 de septiembre de 2017, 19:15 (UTC-3)",Ponte Preta,Campinas,685,Sport Recife,Recife,10,675,1,0,1:0 (1:0),Estadio Moisés Lucarelli
+2017,Fase Final,"13 de septiembre de 2017, 19:15 (UTC-3)",Chapecoense,Chapecó,670,Flamengo,Río de Janeiro,10,660,0,0,0:0,Arena Condá
+2017,Fase Final,"20 de septiembre de 2017, 19:15 (UTC-3)",Flamengo,Río de Janeiro,10,Chapecoense,Chapecó,670,-660,4,0,4:0 (2:0),Estadio Ilha do Urubu
+2017,Fase Final,"14 de septiembre de 2017, 19:15 (UTC-3)",Fluminense,Río de Janeiro,10,Liga de Quito,Quito,2850,-2840,1,0,1:0 (1:0),Estadio de Maracaná
+2017,Fase Final,"21 de septiembre de 2017, 17:15 (UTC-5)",Liga de Quito,Quito,2850,Fluminense,Río de Janeiro,10,2840,2,1,2:1 (0:0),Estadio Casa Blanca
+2017,Fase Final,"24 de octubre de 2017, 21:45 (UTC-3)",Libertad,Asunción,77,Racing Club,Buenos Aires,25,52,1,0,1:0 (1:0),Estadio Defensores del Chaco
+2017,Fase Final,"1 de noviembre de 2017, 19:15 (UTC-3)",Racing Club,Buenos Aires,25,Libertad,Asunción,77,-52,0,0,0:0,Estadio Presidente Perón
+2017,Fase Final,"25 de octubre de 2017, 19:15 (UTC-3)",Nacional,Montevideo,43,Independiente,Buenos Aires,25,18,1,4,1:4 (1:1),Estadio Defensores del Chaco
+2017,Fase Final,"2 de noviembre de 2017, 19:15 (UTC-3)",Independiente,Buenos Aires,25,Nacional,Montevideo,43,-18,2,0,2:0 (0:0),Estadio Libertadores de América
+2017,Fase Final,"26 de octubre de 2017, 20:45 (UTC-3)",Sport Recife,Recife,10,Junior,Barranquilla,18,-8,0,2,0:2 (0:0),Estadio Ilha do Retiro
+2017,Fase Final,"2 de noviembre de 2017, 19:45 (UTC-5)",Junior,Barranquilla,18,Sport Recife,Recife,10,8,0,0,0:0,Estadio Metropolitano
+2017,Fase Final,"25 de octubre de 2017, 21:45 (UTC-2)",Fluminense,Río de Janeiro,10,Flamengo,Río de Janeiro,10,0,0,1,0:1 (0:1),Estadio de Maracaná
+2017,Fase Final,"1 de noviembre de 2017, 21:45 (UTC-2)",Flamengo,Río de Janeiro,10,Fluminense,Río de Janeiro,10,0,3,3,3:3 (1:2),Estadio de Maracaná
+2017,Fase Final,"21 de noviembre de 2017, 21:15 (UTC-3)",Libertad,Asunción,77,Independiente,Buenos Aires,25,52,1,0,1:0 (1:0),Estadio Defensores del Chaco
+2017,Fase Final,"28 de noviembre de 2017, 21:15 (UTC-3)",Independiente,Buenos Aires,25,Libertad,Asunción,77,-52,3,1,3:1 (3:1),Estadio Libertadores de América
+2017,Fase Final,"23 de noviembre de 2017, 21:45 (UTC-2)",Flamengo,Río de Janeiro,10,Junior,Barranquilla,18,-8,2,1,2:1 (0:1),Estadio de Maracaná
+2017,Fase Final,"30 de noviembre de 2017, 19:30 (UTC-5)",Junior,Barranquilla,18,Flamengo,Río de Janeiro,10,8,0,2,0:2 (0:0),Estadio Metropolitano
+2017,Fase Final,"6 de diciembre de 2017, 20:45 (UTC-3)",Independiente,Buenos Aires,25,Flamengo,Río de Janeiro,10,15,2,1,2:1 (1:1),Estadio Libertadores de América
+2017,Fase Final,"13 de diciembre de 2017, 21:45 (UTC-2)",Flamengo,Río de Janeiro,10,Independiente,Buenos Aires,25,-15,1,1,1:1 (1:1),Estadio de Maracaná
+2016,Fase Final,"21 de septiembre de 2016, 19:45 (UTC-5)",Independiente Medellín,Medellín,1495,Santa Cruz,Recife,10,1485,2,0,2:0 (1:0),Estadio Atanasio Girardot
+2016,Fase Final,"28 de septiembre de 2016, 21:45 (UTC-3)",Santa Cruz,Recife,10,Independiente Medellín,Medellín,1495,-1485,3,1,3:1 (2:0),Estadio de Arruda
+2016,Fase Final,"22 de septiembre de 2016, 19:45 (UTC-5)",Santa Fe,Bogotá,2640,Cerro Porteño,Asunción,77,2563,2,0,2:0 (1:0),Estadio Metropolitano de Techo
+2016,Fase Final,"29 de septiembre de 2016, 20:45 (UTC-4)",Cerro Porteño,Asunción,77,Santa Fe,Bogotá,2640,-2563,4,1,4:1 (3:0),Estadio Defensores del Chaco
+2016,Fase Final,"20 de septiembre de 2016, 19:45 (UTC-4)",Sol de América,Asunción,77,Atlético Nacional,Medellín,1495,-1418,1,1,1:1 (0:1),Estadio Luis Alfonso Giagni
+2016,Fase Final,"27 de septiembre de 2016, 19:45 (UTC-5)",Atlético Nacional,Medellín,1495,Sol de América,Asunción,77,1418,2,0,2:0 (0:0),Estadio Atanasio Girardot
+2016,Fase Final,"21 de septiembre de 2016, 21:45 (UTC-3)",Coritiba,Curitiba,934,Belgrano,Córdoba,390,544,1,2,1:2 (0:1),Estadio Couto Pereira
+2016,Fase Final,"28 de septiembre de 2016, 21:45 (UTC-3)",Belgrano,Córdoba,390,Coritiba,Curitiba,934,-544,1,2,"1:2 (1:1)
+(3:4 p.)",Estadio Mario Alberto Kempes
+2016,Fase Final,"22 de septiembre de 2016, 19:15 (UTC-3)",San Lorenzo,Buenos Aires,25,Deportivo La Guaira,Caracas,900,-875,2,1,2:1 (2:0),Estadio Nuevo Gasómetro
+2016,Fase Final,"29 de septiembre de 2016, 18:15 (UTC-4)",Deportivo La Guaira,Caracas,900,San Lorenzo,Buenos Aires,25,875,0,2,0:2 (0:2),Estadio Metropolitano
+2016,Fase Final,"21 de septiembre de 2016, 21:45 (UTC-3)",Palestino,Santiago,553,Flamengo,Río de Janeiro,10,543,0,1,0:1 (0:0),Estadio Monumental
+2016,Fase Final,"28 de septiembre de 2016, 21:45 (UTC-3)",Flamengo,Río de Janeiro,10,Palestino,Santiago,553,-543,1,2,1:2 (0:2),Estadio Kléber Andrade
+2016,Fase Final,"21 de septiembre de 2016, 19:15 (UTC-3)",Independiente,Buenos Aires,25,Chapecoense,Chapecó,670,-645,0,0,0:0,Estadio Libertadores de América
+2016,Fase Final,"28 de septiembre de 2016, 19:15 (UTC-3)",Chapecoense,Chapecó,670,Independiente,Buenos Aires,25,645,0,0,"0:0
+(5:4 p.)",Arena Condá
+2016,Fase Final,"21 de septiembre de 2016, 19:15 (UTC-3)",Montevideo Wanderers,Montevideo,43,Junior,Barranquilla,18,25,0,0,0:0,Estadio Parque Viera
+2016,Fase Final,"28 de septiembre de 2016, 17:15 (UTC-5)",Junior,Barranquilla,18,Montevideo Wanderers,Montevideo,43,-25,0,0,"0:0
+(4:3 p.)",Estadio Metropolitano
+2016,Fase Final,"18 de octubre de 2016, 19:00 (UTC-5)",Independiente Medellín,Medellín,1495,Cerro Porteño,Asunción,77,1418,0,0,0:0,Estadio Atanasio Girardot
+2016,Fase Final,"25 de octubre de 2016, 21:00 (UTC-3)",Cerro Porteño,Asunción,77,Independiente Medellín,Medellín,1495,-1418,2,0,2:0 (1:0),Estadio Defensores del Chaco
+2016,Fase Final,"19 de octubre de 2016, 21:45 (UTC-2)",Coritiba,Curitiba,934,Atlético Nacional,Medellín,1495,-561,1,1,1:1 (0:1),Estadio Couto Pereira
+2016,Fase Final,"26 de octubre de 2016, 21:45 (UTC-5)",Atlético Nacional,Medellín,1495,Coritiba,Curitiba,934,561,3,1,3:1 (0:1),Estadio Atanasio Girardot
+2016,Fase Final,"20 de octubre de 2016, 21:00 (UTC-3)",San Lorenzo,Buenos Aires,25,Palestino,Santiago,553,-528,2,0,2:0 (2:0),Estadio Nuevo Gasómetro
+2016,Fase Final,"27 de octubre de 2016, 21:00 (UTC-3)",Palestino,Santiago,553,San Lorenzo,Buenos Aires,25,528,1,0,1:0 (0:0),Estadio Monumental
+2016,Fase Final,"19 de octubre de 2016, 18:45 (UTC-5)",Junior,Barranquilla,18,Chapecoense,Chapecó,670,-652,1,0,1:0 (1:0),Estadio Metropolitano
+2016,Fase Final,"26 de octubre de 2016, 21:45 (UTC-2)",Chapecoense,Chapecó,670,Junior,Barranquilla,18,652,3,0,3:0 (2:0),Arena Condá
+2016,Fase Final,"1 de noviembre de 2016, 20:45 (UTC-3)",Cerro Porteño,Asunción,77,Atlético Nacional,Medellín,1495,-1418,1,1,1:1 (1:0),Estadio Defensores del Chaco
+2016,Fase Final,"24 de noviembre de 2016, 19:45 (UTC-5)",Atlético Nacional,Medellín,1495,Cerro Porteño,Asunción,77,1418,0,0,0:0,Estadio Atanasio Girardot
+2016,Fase Final,"2 de noviembre de 2016, 20:45 (UTC-3)",San Lorenzo,Buenos Aires,25,Chapecoense,Chapecó,670,-645,1,1,1:1 (1:0),Estadio Nuevo Gasómetro
+2016,Fase Final,"23 de noviembre de 2016, 21:45 (UTC-2)",Chapecoense,Chapecó,670,San Lorenzo,Buenos Aires,25,645,0,0,0:0,Arena Condá
+2015,Fase Final,"23 de septiembre de 2015, 19:00 (UTC-3)",River Plate,Buenos Aires,25,Liga de Quito,Quito,2850,-2825,2,0,2:0 (1:0),Estadio Monumental
+2015,Fase Final,"30 de septiembre de 2015, 17:45 (UTC-5)",Liga de Quito,Quito,2850,River Plate,Buenos Aires,25,2825,1,0,1:0 (0:0),Estadio Casa Blanca
+2015,Fase Final,"24 de septiembre de 2015, 20:00 (UTC-4)",Libertad,Asunción,77,Chapecoense,Chapecó,670,-593,1,1,1:1 (0:1),Estadio Dr. Nicolás Leoz
+2015,Fase Final,"1 de octubre de 2015, 21:00 (UTC-3)",Chapecoense,Chapecó,670,Libertad,Asunción,77,593,1,1,"1:1 (1:1)
+(5:3 p.)",Arena Condá
+2015,Fase Final,"22 de septiembre de 2015, 19:00 (UTC-5)",Deportes Tolima,Ibagué,1285,Sportivo Luqueño,Asunción,77,1208,1,1,1:1 (1:0),Estadio Metropolitano de Techo
+2015,Fase Final,"29 de septiembre de 2015, 18:00 (UTC-4)",Sportivo Luqueño,Asunción,77,Deportes Tolima,Ibagué,1285,-1208,1,0,1:0 (0:0),Estadio Feliciano Cáceres
+2015,Fase Final,"23 de septiembre de 2015, 22:00 (UTC-3)",Atlético Paranaense,Curitiba,934,Brasilia,Brasília,1172,-238,1,0,1:0 (0:0),Arena da Baixada
+2015,Fase Final,"30 de septiembre de 2015, 22:00 (UTC-3)",Brasilia,Brasília,1172,Atlético Paranaense,Curitiba,934,238,0,0,0:0,Estadio Mané Garrincha
+2015,Fase Final,"24 de septiembre de 2015, 21:00 (UTC-3)",Lanús,Buenos Aires,25,Defensor Sporting,Montevideo,43,-18,0,0,0:0,Estadio Ciudad de Lanús
+2015,Fase Final,"1 de octubre de 2015, 21:00 (UTC-3)",Defensor Sporting,Montevideo,43,Lanús,Buenos Aires,25,18,0,0,"0:0
+(5:3 p.)",Estadio Luis Franzini
+2015,Fase Final,"23 de septiembre de 2015, 22:00 (UTC-3)",Sport Recife,Recife,10,Huracán,Buenos Aires,25,-15,1,1,1:1 (0:0),Estadio Ilha do Retiro
+2015,Fase Final,"30 de septiembre de 2015, 22:10 (UTC-3)",Huracán,Buenos Aires,25,Sport Recife,Recife,10,15,3,0,3:0 (0:0),Estadio Tomás Adolfo Ducó
+2015,Fase Final,"23 de septiembre de 2015, 17:00 (UTC-5)",Emelec,Guayaquil,9,Santa Fe,Bogotá,2640,-2631,2,1,2:1 (0:1),Estadio Jocay
+2015,Fase Final,"29 de septiembre de 2015, 19:00 (UTC-5)",Santa Fe,Bogotá,2640,Emelec,Guayaquil,9,2631,1,0,1:0 (1:0),Estadio Nemesio Camacho
+2015,Fase Final,"23 de septiembre de 2015, 21:15 (UTC-3)",Independiente,Buenos Aires,25,Olimpia,Asunción,77,-52,1,0,1:0 (1:0),Estadio Libertadores de América
+2015,Fase Final,"30 de septiembre de 2015, 20:00 (UTC-4)",Olimpia,Asunción,77,Independiente,Buenos Aires,25,52,0,0,0:0,Estadio Defensores del Chaco
+2015,Fase Final,"21 de octubre de 2015, 21:00 (UTC-3)",River Plate,Buenos Aires,25,Chapecoense,Chapecó,670,-645,3,1,3:1 (1:1),Estadio Monumental
+2015,Fase Final,"28 de octubre de 2015, 22:00 (UTC-2)",Chapecoense,Chapecó,670,River Plate,Buenos Aires,25,645,2,1,2:1 (1:1),Arena Condá
+2015,Fase Final,"21 de octubre de 2015, 20:00 (UTC-2)",Atlético Paranaense,Curitiba,934,Sportivo Luqueño,Asunción,77,857,1,0,1:0 (0:0),Arena da Baixada
+2015,Fase Final,"28 de octubre de 2015, 19:00 (UTC-3)",Sportivo Luqueño,Asunción,77,Atlético Paranaense,Curitiba,934,-857,2,0,2:0 (2:0),Estadio Feliciano Cáceres
+2015,Fase Final,"20 de octubre de 2015, 20:45 (UTC-3)",Huracán,Buenos Aires,25,Defensor Sporting,Montevideo,43,-18,1,0,1:0 (0:0),Estadio Tomás Adolfo Ducó
+2015,Fase Final,"27 de octubre de 2015, 20:45 (UTC-3)",Defensor Sporting,Montevideo,43,Huracán,Buenos Aires,25,18,0,0,0:0,Estadio Luis Franzini
+2015,Fase Final,"22 de octubre de 2015, 20:45 (UTC-3)",Independiente,Buenos Aires,25,Santa Fe,Bogotá,2640,-2615,0,1,0:1 (0:0),Estadio Libertadores de América
+2015,Fase Final,"29 de octubre de 2015, 19:00 (UTC-5)",Santa Fe,Bogotá,2640,Independiente,Buenos Aires,25,2615,1,1,1:1 (1:0),Estadio Nemesio Camacho
+2015,Fase Final,"5 de noviembre de 2015, 20:45 (UTC-3)",River Plate,Buenos Aires,25,Huracán,Buenos Aires,25,0,0,1,0:1 (0:1),Estadio Monumental
+2015,Fase Final,"26 de noviembre de 2015, 20:45 (UTC-3)",Huracán,Buenos Aires,25,River Plate,Buenos Aires,25,0,2,2,2:2 (2:0),Estadio Tomás Adolfo Ducó
+2015,Fase Final,"4 de noviembre de 2015, 20:45 (UTC-3)",Sportivo Luqueño,Asunción,77,Santa Fe,Bogotá,2640,-2563,1,1,1:1 (1:0),Estadio Feliciano Cáceres
+2015,Fase Final,"25 de noviembre de 2015, 19:00 (UTC-5)",Santa Fe,Bogotá,2640,Sportivo Luqueño,Asunción,77,2563,0,0,0:0,Estadio Nemesio Camacho
+2015,Fase Final,"2 de diciembre de 2015, 21:00 (UTC-3)",Huracán,Buenos Aires,25,Santa Fe,Bogotá,2640,-2615,0,0,0:0,Estadio Tomás Adolfo Ducó
+2015,Fase Final,"9 de diciembre de 2015, 19:00 (UTC-5)",Santa Fe,Bogotá,2640,Huracán,Buenos Aires,25,2615,0,0,"0:0 (t. s.)
+(3:1 p.)",Estadio El Campín
+2014,Fase Final,"1 de octubre de 2014, 20:00 (UTC-5)",Atlético Nacional,Medellín,1495,Vitória,Salvador,51,1444,2,2,2:2 (1:1),Estadio Atanasio Girardot
+2014,Fase Final,"16 de octubre de 2014, 19:15 (UTC-3)",Vitória,Salvador,51,Atlético Nacional,Medellín,1495,-1444,0,1,0:1 (0:0),Estadio Manoel Barradas
+2014,Fase Final,"1 de octubre de 2014, 19:30 (UTC-3)",Bahia,Salvador,51,Universidad César Vallejo,Trujillo,34,17,2,0,2:0 (0:0),Arena Fonte Nova
+2014,Fase Final,"15 de octubre de 2014, 20:00 (UTC-5)",Universidad César Vallejo,Trujillo,34,Bahia,Salvador,51,-17,2,0,"2:0 (0:0)
+(7:6 p.)",Estadio Mansiche
+2014,Fase Final,"30 de septiembre de 2014, 20:30 (UTC-3)",São Paulo,São Paulo,760,Huachipato,Talcahuano,1,759,1,0,1:0 (0:0),Estadio Morumbi
+2014,Fase Final,"15 de octubre de 2014, 19:30 (UTC-3)",Huachipato,Talcahuano,1,São Paulo,São Paulo,760,-759,2,3,2:3 (1:2),Estadio CAP
+2014,Fase Final,"1 de octubre de 2014, 20:00 (UTC-5)",Emelec,Guayaquil,9,Goiás,Goiânia,749,-740,1,0,1:0 (0:0),Estadio George Capwell
+2014,Fase Final,"15 de octubre de 2014, 22:00 (UTC-3)",Goiás,Goiânia,749,Emelec,Guayaquil,9,740,1,0,"1:0 (1:0)
+(5:6 p.)",Estadio Serra Dourada
+2014,Fase Final,"15 de octubre de 2014, 21:15 (UTC-3)",Boca Juniors,Buenos Aires,25,Deportivo Capiatá,Asunción,77,-52,0,1,0:1 (0:1),Estadio La Bombonera
+2014,Fase Final,"23 de octubre de 2014, 21:15 (UTC-3)",Deportivo Capiatá,Asunción,77,Boca Juniors,Buenos Aires,25,52,0,1,"0:1 (0:0)
+(3:4 p.)",Estadio Feliciano Cáceres
+2014,Fase Final,"14 de octubre de 2014, 21:30 (UTC-3)",Cerro Porteño,Asunción,77,Lanús,Buenos Aires,25,52,2,1,2:1 (0:0),Estadio Defensores del Chaco
+2014,Fase Final,"21 de octubre de 2014, 21:15 (UTC-3)",Lanús,Buenos Aires,25,Cerro Porteño,Asunción,77,-52,1,1,1:1 (1:1),Estadio Ciudad de Lanús
+2014,Fase Final,"16 de octubre de 2014, 21:30 (UTC-3)",Libertad,Asunción,77,River Plate,Buenos Aires,25,52,1,3,1:3 (1:0),Estadio Dr. Nicolás Leoz
+2014,Fase Final,"22 de octubre de 2014, 21:30 (UTC-3)",River Plate,Buenos Aires,25,Libertad,Asunción,77,-52,2,0,2:0 (1:0),Estadio Monumental
+2014,Fase Final,"14 de octubre de 2014, 19:15 (UTC-3)",Estudiantes (LP),La Plata,9,Peñarol,Montevideo,43,-34,2,1,2:1 (1:0),Estadio Ciudad de La Plata
+2014,Fase Final,"22 de octubre de 2014, 19:00 (UTC-3)",Peñarol,Montevideo,43,Estudiantes (LP),La Plata,9,34,2,1,"2:1 (2:0)
+(1:3 p.)",Estadio Centenario
+2014,Fase Final,"29 de octubre de 2014, 20:30 (UTC-5)",Atlético Nacional,Medellín,1495,Universidad César Vallejo,Trujillo,34,1461,1,0,1:0 (0:0),Estadio Atanasio Girardot
+2014,Fase Final,"5 de noviembre de 2014, 21:30 (UTC-5)",Universidad César Vallejo,Trujillo,34,Atlético Nacional,Medellín,1495,-1461,0,1,0:1 (0:0),Estadio Mansiche
+2014,Fase Final,"30 de octubre de 2014, 20:15 (UTC-2)",São Paulo,São Paulo,760,Emelec,Guayaquil,9,751,4,2,4:2 (3:0),Estadio Morumbi
+2014,Fase Final,"5 de noviembre de 2014, 19:00 (UTC-5)",Emelec,Guayaquil,9,São Paulo,São Paulo,760,-751,3,2,3:2 (1:2),Estadio George Capwell
+2014,Fase Final,"30 de octubre de 2014, 21:30 (UTC-3)",Boca Juniors,Buenos Aires,25,Cerro Porteño,Asunción,77,-52,1,0,1:0 (0:0),Estadio La Bombonera
+2014,Fase Final,"6 de noviembre de 2014, 19:00 (UTC-3)",Cerro Porteño,Asunción,77,Boca Juniors,Buenos Aires,25,52,1,4,1:4 (1:1),Estadio Defensores del Chaco
+2014,Fase Final,"29 de octubre de 2014, 20:15 (UTC-3)",Estudiantes (LP),La Plata,9,River Plate,Buenos Aires,25,-16,1,2,1:2 (1:0),Estadio Ciudad de La Plata
+2014,Fase Final,"6 de noviembre de 2014, 21:30 (UTC-3)",River Plate,Buenos Aires,25,Estudiantes (LP),La Plata,9,16,3,2,3:2 (1:1),Estadio Monumental
+2014,Fase Final,"19 de noviembre de 2014, 19:00 (UTC-5)",Atlético Nacional,Medellín,1495,São Paulo,São Paulo,760,735,1,0,1:0 (1:0),Estadio Atanasio Girardot
+2014,Fase Final,"26 de noviembre de 2014, 22:00 (UTC-2)",São Paulo,São Paulo,760,Atlético Nacional,Medellín,1495,-735,1,0,"1:0 (0:0)
+(1:4 p.)",Estadio Morumbi
+2014,Fase Final,"20 de noviembre de 2014, 20:45 (UTC-3)",Boca Juniors,Buenos Aires,25,River Plate,Buenos Aires,25,0,0,0,0:0,Estadio La Bombonera
+2014,Fase Final,"27 de noviembre de 2014, 20:45 (UTC-3)",River Plate,Buenos Aires,25,Boca Juniors,Buenos Aires,25,0,1,0,1:0 (1:0),Estadio Monumental
+2014,Fase Final,"3 de diciembre de 2014, 19:15 (UTC-5)",Atlético Nacional,Medellín,1495,River Plate,Buenos Aires,25,1470,1,1,1:1 (1:0),Estadio Atanasio Girardot
+2014,Fase Final,"10 de diciembre de 2014, 21:15 (UTC-3)",River Plate,Buenos Aires,25,Atlético Nacional,Medellín,1495,-1470,2,0,2:0 (0:0),Estadio Monumental

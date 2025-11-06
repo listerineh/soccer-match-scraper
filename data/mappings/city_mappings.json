@@ -1,0 +1,339 @@
+{
+  "Arequipa": {
+    "altitude": 2335,
+    "teams": ["Melgar"]
+  },
+  "Asunción": {
+    "altitude": 77,
+    "teams": [
+      "Cerro Porteño",
+      "Guaraní",
+      "Libertad",
+      "Olimpia",
+      "Deportivo Capiatá",
+      "Nacional",
+      "Sol de América",
+      "Sportivo Ameliano",
+      "Sportivo Luqueño"
+    ]
+  },
+  "Barinas": {
+    "altitude": 187,
+    "teams": ["Zamora"]
+  },
+  "Barquisimeto": {
+    "altitude": 566,
+    "teams": ["Deportivo Lara"]
+  },
+  "Barranquilla": {
+    "altitude": 18,
+    "teams": ["Junior"]
+  },
+  "Belo Horizonte": {
+    "altitude": 852,
+    "teams": ["América Mineiro", "Atlético Mineiro", "Cruzeiro"]
+  },
+  "Bogotá": {
+    "altitude": 2640,
+    "teams": ["La Equidad", "Millonarios", "Santa Fe"]
+  },
+  "Bragança Paulista": {
+    "altitude": 852,
+    "teams": ["Bragantino"]
+  },
+  "Brasília": {
+    "altitude": 1172,
+    "teams": ["Brasilia", "Brasília"]
+  },
+  "Buenos Aires": {
+    "altitude": 25,
+    "teams": [
+      "Argentinos Juniors",
+      "Arsenal",
+      "Banfield",
+      "Boca Juniors",
+      "Defensa y Justicia",
+      "Huracán",
+      "Independiente",
+      "Lanús",
+      "Racing Club",
+      "River Plate",
+      "San Lorenzo",
+      "Tigre",
+      "Vélez Sarsfield"
+    ]
+  },
+  "Cali": {
+    "altitude": 1018,
+    "teams": ["América de Cali", "Deportivo Cali"]
+  },
+  "Campinas": {
+    "altitude": 685,
+    "teams": ["Ponte Preta"]
+  },
+  "Caracas": {
+    "altitude": 900,
+    "teams": ["Caracas", "Deportivo La Guaira", "Metropolitanos"]
+  },
+  "Chapecó": {
+    "altitude": 670,
+    "teams": ["Chapecoense"]
+  },
+  "Chillán": {
+    "altitude": 166,
+    "teams": ["Ñublense"]
+  },
+  "Ciudad de México": {
+    "altitude": 2240,
+    "teams": ["Pumas UNAM"]
+  },
+  "Ciudad Guayana": {
+    "altitude": 10,
+    "teams": ["Mineros de Guayana"]
+  },
+  "Cochabamba": {
+    "altitude": 2574,
+    "teams": ["Jorge Wilstermann"]
+  },
+  "Coquimbo": {
+    "altitude": 15,
+    "teams": ["Coquimbo Unido"]
+  },
+  "Concepción": {
+    "altitude": 12,
+    "teams": ["Universidad de Concepción"]
+  },
+  "Córdoba": {
+    "altitude": 390,
+    "teams": ["Belgrano", "Talleres (C)"]
+  },
+  "Cuenca": {
+    "altitude": 2560,
+    "teams": ["Deportivo Cuenca"]
+  },
+  "Cuiabá": {
+    "altitude": 165,
+    "teams": ["Cuiabá"]
+  },
+  "Cusco": {
+    "altitude": 3399,
+    "teams": ["Real Garcilaso"]
+  },
+  "Curitiba": {
+    "altitude": 934,
+    "teams": ["Athletico Paranaense", "Atlético Paranaense", "Coritiba"]
+  },
+  "El Alto": {
+    "altitude": 4150,
+    "teams": ["Always Ready"]
+  },
+  "El Salvador": {
+    "altitude": 2430,
+    "teams": ["Cobresal"]
+  },
+  "Fortaleza": {
+    "altitude": 21,
+    "teams": ["Ceará", "Fortaleza"]
+  },
+  "Goiânia": {
+    "altitude": 749,
+    "teams": ["Atlético Goianiense", "Goiás"]
+  },
+  "Guadalajara": {
+    "altitude": 1566,
+    "teams": ["Atlas"]
+  },
+  "Guayaquil": {
+    "altitude": 9,
+    "teams": ["Barcelona", "Emelec"]
+  },
+  "Huancayo": {
+    "altitude": 3250,
+    "teams": ["Sport Huancayo"]
+  },
+  "Ibagué": {
+    "altitude": 1285,
+    "teams": ["Deportes Tolima"]
+  },
+  "Iquique": {
+    "altitude": 1,
+    "teams": ["Deportes Iquique"]
+  },
+  "Juliaca": {
+    "altitude": 3824,
+    "teams": ["Deportivo Binacional"]
+  },
+  "La Calera": {
+    "altitude": 147,
+    "teams": ["Unión La Calera"]
+  },
+  "La Paz": {
+    "altitude": 3640,
+    "teams": ["Bolívar", "The Strongest"]
+  },
+  "La Plata": {
+    "altitude": 9,
+    "teams": ["Estudiantes (LP)"]
+  },
+  "León": {
+    "altitude": 1815,
+    "teams": ["León"]
+  },
+  "Lima": {
+    "altitude": 101,
+    "teams": ["Alianza Lima", "Sporting Cristal", "Universitario"]
+  },
+  "Manta": {
+    "altitude": 12,
+    "teams": ["Delfín"]
+  },
+  "Maracaibo": {
+    "altitude": 6,
+    "teams": ["Zulia"]
+  },
+  "Maturín": {
+    "altitude": 67,
+    "teams": ["Monagas"]
+  },
+  "Medellín": {
+    "altitude": 1495,
+    "teams": ["Atlético Nacional", "Independiente Medellín"]
+  },
+  "Mendoza": {
+    "altitude": 746,
+    "teams": ["Godoy Cruz"]
+  },
+  "Mérida": {
+    "altitude": 1630,
+    "teams": ["Estudiantes de Mérida"]
+  },
+  "Montevideo": {
+    "altitude": 43,
+    "teams": [
+      "Danubio",
+      "Defensor Sporting",
+      "Fénix",
+      "Liverpool",
+      "Montevideo Wanderers",
+      "Nacional",
+      "Peñarol",
+      "Racing",
+      "Rentistas"
+    ]
+  },
+  "Monterrey": {
+    "altitude": 530,
+    "teams": ["Tigres"]
+  },
+  "Oruro": {
+    "altitude": 3735,
+    "teams": ["San José"]
+  },
+  "Paraná": {
+    "altitude": 125,
+    "teams": ["Patronato"]
+  },
+  "Pereira": {
+    "altitude": 1411,
+    "teams": ["Deportivo Pereira"]
+  },
+  "Porto Alegre": {
+    "altitude": 10,
+    "teams": ["Grêmio", "Internacional"]
+  },
+  "Puerto La Cruz": {
+    "altitude": 10,
+    "teams": ["Deportivo Anzoátegui"]
+  },
+  "Quito": {
+    "altitude": 2850,
+    "teams": ["Aucas", "Independiente del Valle", "Liga de Quito", "Universidad Católica"]
+  },
+  "Rancagua": {
+    "altitude": 518,
+    "teams": ["O'Higgins"]
+  },
+  "Recife": {
+    "altitude": 10,
+    "teams": ["Santa Cruz", "Sport Recife"]
+  },
+  "Río de Janeiro": {
+    "altitude": 10,
+    "teams": ["Botafogo", "Vasco da Gama", "Flamengo", "Fluminense"]
+  },
+  "Rosario": {
+    "altitude": 31,
+    "teams": ["Newell's Old Boys", "Rosario Central"]
+  },
+  "Salvador": {
+    "altitude": 51,
+    "teams": ["Bahia", "Bahía", "Vitória"]
+  },
+  "San Cristóbal": {
+    "altitude": 825,
+    "teams": ["Deportivo Táchira"]
+  },
+  "Santa Cruz de la Sierra": {
+    "altitude": 416,
+    "teams": ["Royal Pari"]
+  },
+  "Santa Fe": {
+    "altitude": 82,
+    "teams": ["Colón", "Unión"]
+  },
+  "Santiago": {
+    "altitude": 553,
+    "teams": [
+      "Audax Italiano",
+      "Colo-Colo",
+      "Palestino",
+      "Unión Española",
+      "Universidad Católica",
+      "Universidad de Chile"
+    ]
+  },
+  "Santos": {
+    "altitude": 2,
+    "teams": ["Santos"]
+  },
+  "São Paulo": {
+    "altitude": 760,
+    "teams": ["Palmeiras", "São Paulo", "Corinthians"]
+  },
+  "Sucre": {
+    "altitude": 2810,
+    "teams": ["Universitario de Sucre", "Independiente Petrolero"]
+  },
+  "Talcahuano": {
+    "altitude": 1,
+    "teams": ["Huachipato"]
+  },
+  "Toluca": {
+    "altitude": 2667,
+    "teams": ["Toluca"]
+  },
+  "Torreón": {
+    "altitude": 1120,
+    "teams": ["Santos Laguna"]
+  },
+  "Trujillo": {
+    "altitude": 34,
+    "teams": ["Universidad César Vallejo"]
+  },
+  "Tucumán": {
+    "altitude": 431,
+    "teams": ["Atlético Tucumán"]
+  },
+  "Warnes": {
+    "altitude": 325,
+    "teams": ["Sport Boys"]
+  },
+  "Chiclayo": {
+    "altitude": 29,
+    "teams": ["Juan Aurich"]
+  },
+  "Valera": {
+    "altitude": 650,
+    "teams": ["Trujillanos"]
+  }
+}
